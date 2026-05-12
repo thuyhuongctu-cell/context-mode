@@ -1,0 +1,438 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Ngân hàng câu hỏi ôn tập - Khởi nghiệp</title>
+<style>
+:root {
+  --bg:#f5f7fb; --card:#ffffff; --ink:#1a2030; --muted:#5b6478;
+  --primary:#2563eb; --primary-ink:#ffffff; --ok:#15803d; --ok-bg:#dcfce7;
+  --bad:#b91c1c; --bad-bg:#fee2e2; --warn:#b45309; --line:#e3e8f0;
+  --pick:#dbeafe;
+}
+* { box-sizing:border-box; }
+html,body { margin:0; padding:0; background:var(--bg); color:var(--ink);
+  font-family: system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  line-height:1.5; -webkit-text-size-adjust:100%; }
+.container { max-width:880px; margin:0 auto; padding:16px; }
+header.app { display:flex; align-items:center; justify-content:space-between; gap:12px;
+  padding:14px 16px; background:var(--card); border-bottom:1px solid var(--line);
+  position:sticky; top:0; z-index:10; }
+header.app h1 { font-size:1.05rem; margin:0; }
+header.app .meta { font-size:0.85rem; color:var(--muted); }
+.card { background:var(--card); border:1px solid var(--line); border-radius:12px;
+  padding:16px 18px; margin:12px 0; box-shadow:0 1px 2px rgba(0,0,0,0.03); }
+.btn { appearance:none; border:1px solid var(--line); background:#fff; color:var(--ink);
+  padding:8px 14px; border-radius:8px; cursor:pointer; font-size:0.95rem; }
+.btn:hover { background:#f1f5fb; }
+.btn.primary { background:var(--primary); color:var(--primary-ink); border-color:var(--primary); }
+.btn.primary:hover { filter:brightness(0.95); }
+.btn.ghost { background:transparent; }
+.btn:disabled { opacity:0.5; cursor:not-allowed; }
+.row { display:flex; gap:10px; flex-wrap:wrap; }
+.chapter-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:12px; }
+.chapter { padding:18px; cursor:pointer; transition:transform .08s; }
+.chapter:hover { transform:translateY(-2px); border-color:var(--primary); }
+.chapter h3 { margin:0 0 6px; }
+.chapter .count { color:var(--muted); font-size:0.9rem; }
+.question { margin-bottom:0; }
+.question .q-num { color:var(--muted); font-size:0.85rem; letter-spacing:.04em; text-transform:uppercase; }
+.question .q-text { font-weight:600; margin:6px 0 12px; }
+.options { display:grid; gap:8px; }
+.option { display:flex; gap:10px; align-items:flex-start; padding:10px 12px;
+  border:1px solid var(--line); border-radius:10px; cursor:pointer; background:#fff; }
+.option:hover { background:#f7faff; }
+.option input { margin-top:3px; }
+.option.picked { background:var(--pick); border-color:var(--primary); }
+.option .letter { font-weight:700; width:1.4em; flex:0 0 auto; }
+.option.correct { background:var(--ok-bg); border-color:var(--ok); }
+.option.wrong { background:var(--bad-bg); border-color:var(--bad); }
+.progress { height:8px; background:#e9eef7; border-radius:99px; overflow:hidden; margin-top:6px; }
+.progress > div { height:100%; background:var(--primary); transition:width .25s; }
+.toolbar { display:flex; gap:8px; flex-wrap:wrap; align-items:center; justify-content:space-between; }
+.pager { display:flex; gap:6px; flex-wrap:wrap; margin-top:12px; }
+.pager .p { padding:4px 8px; border:1px solid var(--line); border-radius:6px; font-size:0.85rem;
+  cursor:pointer; background:#fff; min-width:34px; text-align:center; }
+.pager .p.done { background:#eef2ff; border-color:#c7d2fe; }
+.pager .p.current { background:var(--primary); color:#fff; border-color:var(--primary); }
+.pager .p.flag { box-shadow:inset 0 -3px 0 #f59e0b; }
+.score { font-size:2rem; font-weight:800; margin:6px 0; }
+.score .num { color:var(--primary); }
+.summary-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(140px,1fr)); gap:10px; margin:10px 0; }
+.summary-grid .box { padding:10px 12px; border:1px solid var(--line); border-radius:10px; background:#fff; }
+.summary-grid .box .v { font-size:1.4rem; font-weight:700; }
+.summary-grid .box .l { color:var(--muted); font-size:0.85rem; }
+.hint { color:var(--muted); font-size:0.88rem; }
+.tag { display:inline-block; padding:2px 8px; border-radius:99px; font-size:0.78rem; background:#eef2ff; color:#3730a3; }
+.review-item { padding:12px 0; border-top:1px dashed var(--line); }
+.review-item:first-child { border-top:0; }
+.right-ans { color:var(--ok); font-weight:600; }
+.your-ans { color:var(--bad); font-weight:600; }
+footer { text-align:center; color:var(--muted); font-size:0.85rem; padding:16px; }
+@media (max-width:600px) {
+  .container { padding:10px; }
+  .card { padding:12px 14px; }
+  header.app h1 { font-size:0.95rem; }
+}
+</style>
+</head>
+<body>
+<header class="app">
+  <h1 id="appTitle">Ngân hàng câu hỏi ôn tập - Khởi nghiệp</h1>
+  <div class="meta" id="appMeta"></div>
+</header>
+<main class="container" id="app"></main>
+<footer>
+  Bộ câu hỏi gồm 3 chương · Tổng <span id="totalCount"></span> câu ·
+  Tự lưu tiến độ trên trình duyệt
+</footer>
+
+<script>
+const QUESTIONS_URL = "./questions.json";
+const STORAGE_KEY = "khoi-nghiep-quiz-v1";
+
+const CHAPTERS = [
+  { id:"ch1", title:"Chương 1", subtitle:"Tổng quan về khởi nghiệp" },
+  { id:"ch2", title:"Chương 2", subtitle:"Ý tưởng & cơ hội khởi nghiệp" },
+  { id:"ch3", title:"Chương 3", subtitle:"Lập kế hoạch khởi nghiệp" },
+];
+
+const app = document.getElementById("app");
+const titleEl = document.getElementById("appTitle");
+const metaEl = document.getElementById("appMeta");
+const totalCountEl = document.getElementById("totalCount");
+
+let DATA = null;
+let STATE = loadState();
+
+function loadState() {
+  try {
+    const raw = localStorage.getItem(STORAGE_KEY);
+    if (raw) return JSON.parse(raw);
+  } catch(e){}
+  return { studentName:"", picks:{}, flagged:{}, submitted:{} };
+}
+function saveState() {
+  try { localStorage.setItem(STORAGE_KEY, JSON.stringify(STATE)); } catch(e){}
+}
+
+function escapeHTML(s) {
+  return String(s ?? "").replace(/[&<>"']/g, m =>
+    ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[m]));
+}
+
+function render() {
+  const hash = location.hash || "#/";
+  if (hash === "#/" || hash === "") renderHome();
+  else if (hash.startsWith("#/quiz/")) {
+    const chId = hash.split("/")[2];
+    if (!CHAPTERS.find(c=>c.id===chId)) return renderHome();
+    renderQuiz(chId);
+  }
+  else if (hash.startsWith("#/result/")) {
+    const chId = hash.split("/")[2];
+    renderResult(chId);
+  }
+  else renderHome();
+}
+
+function renderHome() {
+  titleEl.textContent = "Ngân hàng câu hỏi ôn tập - Khởi nghiệp";
+  metaEl.textContent = "";
+  const total = Object.values(DATA).reduce((a,b)=>a+b.length, 0);
+  totalCountEl.textContent = total;
+
+  app.innerHTML = `
+    <div class="card">
+      <h2 style="margin-top:0">Xin chào sinh viên 👋</h2>
+      <p>Đây là bộ câu hỏi trắc nghiệm ôn tập học phần <b>Khởi sự kinh doanh / Khởi nghiệp</b>.
+      Bạn có thể chọn từng chương để làm bài. Tiến độ sẽ tự lưu trên trình duyệt này.</p>
+      <div class="row" style="margin-top:10px">
+        <label class="hint" style="flex:1 1 240px">
+          Họ tên (tuỳ chọn, chỉ lưu trên máy bạn):<br>
+          <input id="nameInput" type="text" placeholder="VD: Nguyễn Văn A"
+            style="margin-top:4px;width:100%;padding:8px 10px;border:1px solid var(--line);border-radius:8px;font-size:1rem"
+            value="${escapeHTML(STATE.studentName||"")}">
+        </label>
+      </div>
+    </div>
+
+    <div class="card">
+      <h3 style="margin-top:0">Chọn chương để làm bài</h3>
+      <div class="chapter-grid">
+        ${CHAPTERS.map(c => {
+          const total = DATA[c.id].length;
+          const done = Object.keys(STATE.picks[c.id]||{}).length;
+          const submitted = !!STATE.submitted[c.id];
+          const pct = total ? Math.round(done/total*100) : 0;
+          return `
+            <div class="card chapter" data-ch="${c.id}">
+              <h3>${escapeHTML(c.title)}</h3>
+              <div class="count">${escapeHTML(c.subtitle)}</div>
+              <div class="count" style="margin-top:8px">${total} câu · Đã trả lời ${done}/${total}${submitted?' · <span class="tag">Đã nộp</span>':''}</div>
+              <div class="progress" aria-label="Tiến độ"><div style="width:${pct}%"></div></div>
+              <div class="row" style="margin-top:10px">
+                <button class="btn primary" data-go="${c.id}">${submitted?'Xem lại':(done?'Tiếp tục':'Bắt đầu')}</button>
+                ${done||submitted?`<button class="btn ghost" data-reset="${c.id}">Làm lại</button>`:''}
+              </div>
+            </div>`;
+        }).join("")}
+      </div>
+    </div>
+
+    <div class="card">
+      <h3 style="margin-top:0">Hướng dẫn</h3>
+      <ol style="margin:0;padding-left:18px">
+        <li>Chọn 1 đáp án A/B/C/D cho mỗi câu.</li>
+        <li>Có thể đánh dấu cờ (🚩) câu nghi ngờ để quay lại sau.</li>
+        <li>Bấm <b>Nộp bài</b> khi xong để xem điểm và đáp án.</li>
+        <li>Bấm <b>Làm lại</b> để xoá tiến độ chương đó và làm lại từ đầu.</li>
+      </ol>
+    </div>
+  `;
+
+  document.getElementById("nameInput").addEventListener("input", e=>{
+    STATE.studentName = e.target.value; saveState();
+  });
+  app.querySelectorAll("[data-go]").forEach(b=>{
+    b.addEventListener("click", ()=>{ location.hash = `#/quiz/${b.dataset.go}`; });
+  });
+  app.querySelectorAll("[data-reset]").forEach(b=>{
+    b.addEventListener("click", ()=>{
+      const ch = b.dataset.reset;
+      if (confirm(`Làm lại ${CHAPTERS.find(c=>c.id===ch).title}? Tiến độ hiện tại của chương này sẽ bị xoá.`)) {
+        delete STATE.picks[ch]; delete STATE.submitted[ch]; delete STATE.flagged[ch];
+        saveState(); render();
+      }
+    });
+  });
+  app.querySelectorAll(".chapter").forEach(c=>{
+    c.addEventListener("click", e=>{
+      if (e.target.closest("button")) return;
+      location.hash = `#/quiz/${c.dataset.ch}`;
+    });
+  });
+}
+
+function renderQuiz(chId) {
+  const ch = CHAPTERS.find(c=>c.id===chId);
+  const qs = DATA[chId];
+  titleEl.innerHTML = `<a href="#/" style="color:inherit;text-decoration:none">← Trang chính</a>  ·  ${escapeHTML(ch.title)}`;
+  const picks = STATE.picks[chId] || (STATE.picks[chId] = {});
+  const flagged = STATE.flagged[chId] || (STATE.flagged[chId] = {});
+  const done = Object.keys(picks).length;
+  metaEl.textContent = `${done}/${qs.length} câu`;
+
+  app.innerHTML = `
+    <div class="card">
+      <div class="toolbar">
+        <div>
+          <b>${escapeHTML(ch.title)}</b>
+          <div class="hint">${escapeHTML(ch.subtitle)} · ${qs.length} câu</div>
+        </div>
+        <div class="row">
+          <button class="btn" id="backBtn">Trang chính</button>
+          <button class="btn primary" id="submitBtn">Nộp bài</button>
+        </div>
+      </div>
+      <div class="progress" style="margin-top:10px"><div id="pbar" style="width:${Math.round(done/qs.length*100)}%"></div></div>
+      <div class="pager" id="pager"></div>
+    </div>
+    <div id="qList"></div>
+    <div class="card" style="text-align:center">
+      <button class="btn primary" id="submitBtn2">Nộp bài</button>
+      <div class="hint" style="margin-top:6px">Đã trả lời <span id="doneLabel">${done}</span>/${qs.length} câu</div>
+    </div>
+  `;
+
+  const qList = document.getElementById("qList");
+  qList.innerHTML = qs.map((q,i)=> renderQuestionCard(chId,i,q,picks[i],flagged[i],false)).join("");
+
+  // events
+  document.getElementById("backBtn").onclick = ()=> location.hash = "#/";
+  const submit = ()=>{
+    const unanswered = qs.length - Object.keys(picks).length;
+    let ok = true;
+    if (unanswered>0) ok = confirm(`Còn ${unanswered} câu chưa trả lời. Vẫn nộp bài?`);
+    if (!ok) return;
+    STATE.submitted[chId] = Date.now(); saveState();
+    location.hash = `#/result/${chId}`;
+  };
+  document.getElementById("submitBtn").onclick = submit;
+  document.getElementById("submitBtn2").onclick = submit;
+
+  qList.addEventListener("change", e=>{
+    const el = e.target;
+    if (el.matches('input[type=radio]')) {
+      const i = +el.dataset.q;
+      picks[i] = el.value;
+      saveState();
+      updateProgress();
+    }
+  });
+  qList.addEventListener("click", e=>{
+    const fb = e.target.closest("[data-flag]");
+    if (fb) {
+      const i = +fb.dataset.flag;
+      flagged[i] = !flagged[i];
+      saveState();
+      fb.textContent = flagged[i] ? "🚩 Đã đánh dấu" : "🚩 Đánh dấu";
+      renderPager();
+    }
+    const j = e.target.closest("[data-jump]");
+    if (j) {
+      const i = +j.dataset.jump;
+      const el = document.getElementById("q"+i);
+      if (el) el.scrollIntoView({behavior:"smooth", block:"start"});
+    }
+  });
+
+  renderPager();
+  function renderPager() {
+    const pg = document.getElementById("pager");
+    pg.innerHTML = qs.map((_,i)=>{
+      const classes = ["p"];
+      if (picks[i]) classes.push("done");
+      if (flagged[i]) classes.push("flag");
+      return `<span class="${classes.join(" ")}" data-jump="${i}">${i+1}</span>`;
+    }).join("");
+  }
+  function updateProgress() {
+    const d = Object.keys(picks).length;
+    document.getElementById("pbar").style.width = (d/qs.length*100)+"%";
+    document.getElementById("doneLabel").textContent = d;
+    metaEl.textContent = `${d}/${qs.length} câu`;
+    renderPager();
+  }
+}
+
+function renderQuestionCard(chId, idx, q, picked, flagged, reveal) {
+  const letters = ['A','B','C','D'].filter(L => q.options[L]);
+  const optsHTML = letters.map(L=>{
+    let cls = "option";
+    if (picked === L) cls += " picked";
+    if (reveal) {
+      if (L === q.answer) cls += " correct";
+      else if (picked === L) cls += " wrong";
+    }
+    const disabled = reveal ? "disabled" : "";
+    const checked = picked===L ? "checked" : "";
+    return `
+      <label class="${cls}">
+        <input type="radio" name="q-${chId}-${idx}" value="${L}" data-q="${idx}" ${checked} ${disabled}>
+        <span class="letter">${L}.</span>
+        <span>${escapeHTML(q.options[L])}</span>
+      </label>`;
+  }).join("");
+
+  return `
+    <div class="card question" id="q${idx}">
+      <div class="toolbar">
+        <div class="q-num">Câu ${idx+1}</div>
+        ${!reveal ? `<button class="btn ghost" data-flag="${idx}">${flagged?"🚩 Đã đánh dấu":"🚩 Đánh dấu"}</button>` : ""}
+      </div>
+      <div class="q-text">${escapeHTML(q.q)}</div>
+      <div class="options">${optsHTML}</div>
+      ${reveal ? `<div class="hint" style="margin-top:8px">Đáp án đúng: <span class="right-ans">${q.answer}. ${escapeHTML(q.options[q.answer]||"")}</span></div>` : ""}
+    </div>
+  `;
+}
+
+function renderResult(chId) {
+  const ch = CHAPTERS.find(c=>c.id===chId);
+  const qs = DATA[chId];
+  const picks = STATE.picks[chId] || {};
+  let right = 0, wrong = 0, blank = 0;
+  qs.forEach((q,i)=>{
+    if (!picks[i]) blank++;
+    else if (picks[i] === q.answer) right++;
+    else wrong++;
+  });
+  const score10 = (right / qs.length * 10);
+  titleEl.innerHTML = `<a href="#/" style="color:inherit;text-decoration:none">← Trang chính</a>  ·  ${escapeHTML(ch.title)} · Kết quả`;
+  metaEl.textContent = "";
+
+  app.innerHTML = `
+    <div class="card">
+      <h2 style="margin-top:0">Kết quả - ${escapeHTML(ch.title)}</h2>
+      ${STATE.studentName ? `<div class="hint">Sinh viên: <b>${escapeHTML(STATE.studentName)}</b></div>` : ""}
+      <div class="score">Điểm: <span class="num">${score10.toFixed(2)}</span> / 10</div>
+      <div class="summary-grid">
+        <div class="box"><div class="v">${right}</div><div class="l">Câu đúng</div></div>
+        <div class="box"><div class="v">${wrong}</div><div class="l">Câu sai</div></div>
+        <div class="box"><div class="v">${blank}</div><div class="l">Bỏ trống</div></div>
+        <div class="box"><div class="v">${qs.length}</div><div class="l">Tổng câu</div></div>
+      </div>
+      <div class="row">
+        <button class="btn" id="backBtn">Trang chính</button>
+        <button class="btn" id="reviewWrong">Chỉ xem câu sai</button>
+        <button class="btn primary" id="reviewAll">Xem toàn bộ đáp án</button>
+        <button class="btn ghost" id="retry">Làm lại chương này</button>
+      </div>
+    </div>
+    <div id="review"></div>
+  `;
+
+  document.getElementById("backBtn").onclick = ()=> location.hash = "#/";
+  document.getElementById("retry").onclick = ()=>{
+    if (confirm("Làm lại chương này? Tiến độ sẽ bị xoá.")) {
+      delete STATE.picks[chId]; delete STATE.submitted[chId]; delete STATE.flagged[chId];
+      saveState(); location.hash = `#/quiz/${chId}`;
+    }
+  };
+  const reviewEl = document.getElementById("review");
+  const showReview = (mode)=>{
+    const items = qs.map((q,i)=>({q,i,picked:picks[i]}))
+      .filter(o => mode === "wrong" ? (o.picked && o.picked!==o.q.answer) || (!o.picked) : true);
+    if (items.length === 0) {
+      reviewEl.innerHTML = `<div class="card hint">Không có câu nào để xem lại 🎉</div>`;
+      return;
+    }
+    reviewEl.innerHTML = `<div class="card"><h3 style="margin-top:0">${mode==='wrong'?'Các câu chưa đúng':'Tất cả các câu'}</h3>` +
+      items.map(o => renderReviewItem(chId,o.i,o.q,o.picked)).join("") + `</div>`;
+  };
+  document.getElementById("reviewWrong").onclick = ()=> showReview("wrong");
+  document.getElementById("reviewAll").onclick = ()=> showReview("all");
+}
+
+function renderReviewItem(chId, idx, q, picked) {
+  const correct = q.answer;
+  const status = !picked ? "Bỏ trống" : (picked===correct ? "Đúng" : "Sai");
+  const statusColor = !picked ? "var(--warn)" : (picked===correct ? "var(--ok)" : "var(--bad)");
+  const letters = ['A','B','C','D'].filter(L => q.options[L]);
+  return `
+    <div class="review-item">
+      <div class="q-num">Câu ${idx+1} · <span style="color:${statusColor};font-weight:600">${status}</span></div>
+      <div class="q-text">${escapeHTML(q.q)}</div>
+      <div class="options">
+        ${letters.map(L=>{
+          let cls = "option";
+          if (L === correct) cls += " correct";
+          else if (picked === L) cls += " wrong";
+          return `<div class="${cls}"><span class="letter">${L}.</span><span>${escapeHTML(q.options[L])}</span></div>`;
+        }).join("")}
+      </div>
+      <div class="hint" style="margin-top:6px">
+        ${picked ? `Bạn chọn: <span class="${picked===correct?'right-ans':'your-ans'}">${picked}</span> · ` : ""}
+        Đáp án đúng: <span class="right-ans">${correct}</span>
+      </div>
+    </div>
+  `;
+}
+
+window.addEventListener("hashchange", render);
+window.addEventListener("DOMContentLoaded", async ()=>{
+  try {
+    const res = await fetch(QUESTIONS_URL, { cache:"no-store" });
+    DATA = await res.json();
+  } catch(e) {
+    app.innerHTML = `<div class="card"><b>Lỗi tải dữ liệu:</b> ${escapeHTML(e.message)}<br>
+      Vui lòng mở qua đường link đầy đủ (không mở từ file://). Có thể dùng GitHub Pages hoặc một static server.</div>`;
+    return;
+  }
+  render();
+});
+</script>
+</body>
+</html>
