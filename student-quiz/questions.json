@@ -1,0 +1,2358 @@
+{
+  "ch1": [
+    {
+      "q": "“Khởi” trong “khởi nghiệp” có nghĩa là gì?",
+      "options": {
+        "A": "Tạo ra cái mới hoàn toàn",
+        "B": "Sự nghiệp lâu dài",
+        "C": "Bắt đầu, khởi đầu",
+        "D": "Tái tạo, làm lại"
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Khái niệm nào sau đây không được xem là yếu tố chính của khởi nghiệp?",
+      "options": {
+        "A": "Tính bền vững",
+        "B": "Sự nghiệp mới",
+        "C": "Tính sáng tạo",
+        "D": "Tiềm năng tăng trưởng"
+      },
+      "answer": "A"
+    },
+    {
+      "q": "Khởi sự kinh doanh và khởi nghiệp khác nhau ở điểm nào?",
+      "options": {
+        "A": "Khởi nghiệp có rủi ro thấp hơn.",
+        "B": "Khởi nghiệp luôn cần nhiều vốn hơn.",
+        "C": "Khởi nghiệp thường mang tính đổi mới, sáng tạo và có định hướng phát triển lớn hơn.",
+        "D": "Khởi sự kinh doanh luôn tập trung vào các mô hình công nghệ."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Yếu tố nào là cốt lõi của khởi nghiệp?",
+      "options": {
+        "A": "Tính bảo thủ và an toàn",
+        "B": "Tính hiệu quả và nhanh chóng",
+        "C": "Tính sáng tạo và đổi mới",
+        "D": "Tính duy trì và ổn định"
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Startup thường huy động vốn từ đâu?",
+      "options": {
+        "A": "Vay ngân hàng truyền thống",
+        "B": "Vốn tự có của cá nhân",
+        "C": "Vay mượn từ bạn bè, người thân",
+        "D": "Nhà đầu tư thiên thần hoặc quỹ đầu tư mạo hiểm"
+      },
+      "answer": "D"
+    },
+    {
+      "q": "“Tinh thần Khởi nghiệp” (Entrepreneurship) được định nghĩa là gì?",
+      "options": {
+        "A": "Một loại hình doanh nghiệp đang trong giai đoạn đầu.",
+        "B": "Quá trình và tinh thần của việc khởi nghiệp, bao gồm sự dấn thân và theo đuổi cơ hội mới.",
+        "C": "Việc tạo ra các sản phẩm/dịch vụ độc đáo có khả năng tăng trưởng đột phá.",
+        "D": "Tập trung vào việc khai thác công nghệ để tạo ra giá trị cho xã hội."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Trong hệ sinh thái khởi nghiệp, thành phần nào đóng vai trò là “nguồn dinh dưỡng” cho startup?",
+      "options": {
+        "A": "Các trường đại học và viện nghiên cứu",
+        "B": "Chính phủ và các cơ quan quản lý",
+        "C": "Nhà đầu tư",
+        "D": "Cộng đồng và thị trường"
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Thành phần nào trong hệ sinh thái khởi nghiệp được ví như “hạt giống”?",
+      "options": {
+        "A": "Nhà khởi nghiệp",
+        "B": "Nhà đầu tư",
+        "C": "Các tổ chức hỗ trợ",
+        "D": "Cộng đồng và thị trường"
+      },
+      "answer": "A"
+    },
+    {
+      "q": "Yếu tố nào sau đây là một trong ba yếu tố cốt lõi của người khởi nghiệp thành công?",
+      "options": {
+        "A": "Mạng lưới quan hệ",
+        "B": "Khả năng giao tiếp",
+        "C": "Kiến thức",
+        "D": "Khả năng thuyết trình"
+      },
+      "answer": "C"
+    },
+    {
+      "q": "“Tố chất” của người khởi nghiệp được ví như gì?",
+      "options": {
+        "A": "Bản đồ để dẫn dắt hành trình",
+        "B": "Đôi chân giúp đi đến đích",
+        "C": "Ngọn lửa khởi đầu và nhiên liệu",
+        "D": "Vùng đất màu mỡ để ươm mầm"
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Tại sao “Khởi nghiệp xanh & bền vững” lại trở thành một xu hướng?",
+      "options": {
+        "A": "Vì đây là mô hình kinh doanh an toàn, ít rủi ro.",
+        "B": "Vì người tiêu dùng, đặc biệt là giới trẻ, ưu tiên sản phẩm “xanh”.",
+        "C": "Vì nó không đòi hỏi nhiều vốn đầu tư ban đầu.",
+        "D": "Vì mô hình này tập trung vào lợi nhuận cao và nhanh chóng."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Khái niệm “tăng trưởng” trong khởi nghiệp phân biệt khởi nghiệp với khởi sự kinh doanh thông thường ở điểm nào?",
+      "options": {
+        "A": "Khởi nghiệp luôn hướng đến mục tiêu mở rộng quy mô một cách nhanh chóng.",
+        "B": "Khởi nghiệp chỉ tập trung vào việc duy trì lợi nhuận ổn định.",
+        "C": "Khởi nghiệp chỉ hoạt động trong một khu vực địa phương nhỏ.",
+        "D": "Khởi nghiệp chỉ có thể mở rộng khi có sự hỗ trợ của nhà nước."
+      },
+      "answer": "A"
+    },
+    {
+      "q": "Vườn ươm doanh nghiệp (Incubators) có chức năng gì?",
+      "options": {
+        "A": "Hỗ trợ các startup đã có sản phẩm để tăng trưởng nhanh.",
+        "B": "Cung cấp vốn đầu tư lớn và các hợp đồng kinh doanh.",
+        "C": "Hỗ trợ các ý tưởng hoặc dự án ở giai đoạn đầu.",
+        "D": "Huấn luyện chuyên sâu và kết nối mạng lưới khách hàng."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "“Kiến thức” của người khởi nghiệp được ví như gì?",
+      "options": {
+        "A": "Đôi chân giúp bạn đi đến đích.",
+        "B": "Bản đồ để dẫn dắt hành trình khởi nghiệp.",
+        "C": "Nguồn nhiên liệu để bước vào hành trình.",
+        "D": "Ánh sáng mặt trời giúp nuôi dưỡng sự phát triển."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Khởi nghiệp tự do (Freelancer/Online Entrepreneur) có đặc điểm nào nổi bật nhất?",
+      "options": {
+        "A": "Yêu cầu vốn đầu tư ban đầu rất lớn.",
+        "B": "Phụ thuộc hoàn toàn vào một thương hiệu mẹ.",
+        "C": "Linh hoạt cao, vốn thấp và chủ yếu dựa vào kỹ năng cá nhân.",
+        "D": "Chỉ hoạt động trong các lĩnh vực kinh doanh truyền thống."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Yếu tố nào sau đây là một trong các yếu tố tác động mạnh mẽ đến bối cảnh thị trường?",
+      "options": {
+        "A": "Sự ổn định của thị trường truyền thống",
+        "B": "Vốn đầu tư luôn sẵn có cho mọi dự án",
+        "C": "Hành vi tiêu dùng thay đổi, yêu cầu trải nghiệm cá nhân hóa",
+        "D": "Sự can thiệp tối thiểu của chính phủ vào thị trường"
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Thành phần nào trong hệ sinh thái khởi nghiệp đóng vai trò tạo môi trường pháp lý và chính sách hỗ trợ?",
+      "options": {
+        "A": "Các tổ chức hỗ trợ khởi nghiệp.",
+        "B": "Cộng đồng và thị trường.",
+        "C": "Các trường đại học và viện nghiên cứu.",
+        "D": "Chính phủ và các cơ quan quản lý."
+      },
+      "answer": "D"
+    },
+    {
+      "q": "Khởi nghiệp xã hội (Social Entrepreneurship) được định nghĩa là gì?",
+      "options": {
+        "A": "Hình thức khởi nghiệp chỉ tập trung vào lợi nhuận.",
+        "B": "Hình thức khởi nghiệp chỉ giải quyết các vấn đề môi trường.",
+        "C": "Hình thức khởi nghiệp tạo ra sản phẩm hoàn toàn mới.",
+        "D": "Hình thức khởi nghiệp với mục tiêu kép: giải quyết vấn đề xã hội/ môi trường và duy trì lợi nhuận."
+      },
+      "answer": "D"
+    },
+    {
+      "q": "Đâu là một trong những thách thức lớn nhất của nhà khởi nghiệp?",
+      "options": {
+        "A": "Thiếu đam mê và kiên trì",
+        "B": "Thiếu vốn, kinh nghiệm quản lý và kỹ năng lãnh đạo",
+        "C": "Không tìm thấy thị trường tiềm năng",
+        "D": "Thiếu khả năng sáng tạo và đổi mới"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Yếu tố nào là điểm hấp dẫn các nhà đầu tư và là mục tiêu của các startup?",
+      "options": {
+        "A": "Chi phí vận hành thấp",
+        "B": "Sản phẩm độc đáo ề",
+        "C": "Tiềm năng tăng trưởng cao",
+        "D": "Thị trường địa phương ổn định"
+      },
+      "answer": "C"
+    },
+    {
+      "q": "“Sự nghiệp mới” trong khái niệm khởi nghiệp có nghĩa là gì?",
+      "options": {
+        "A": "Đơn thuần là tham gia vào một công việc đã có sẵn.",
+        "B": "Tạo ra một tổ chức kinh doanh mới hoặc một mô hình kinh doanh chưa từng có.",
+        "C": "Một công việc mang tính tạm thời, không lâu dài.",
+        "D": "Kinh doanh các sản phẩm hoặc dịch vụ đã có trên thị trường."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Yếu tố nào được ví như “khí hậu và môi trường” quyết định sự phát triển của hệ sinh thái khởi nghiệp?",
+      "options": {
+        "A": "Nhà khởi nghiệp",
+        "B": "Nhà đầu tư",
+        "C": "Chính phủ",
+        "D": "Cộng đồng và thị trường"
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Đâu là một ví dụ về xu hướng “Kinh tế chia sẻ”?",
+      "options": {
+        "A": "Ứng dụng Elsa Speak",
+        "B": "TikTok Shop",
+        "C": "Alternō sản xuất pin tái chế",
+        "D": "Grab"
+      },
+      "answer": "D"
+    },
+    {
+      "q": "Khi nào nên khởi nghiệp?",
+      "options": {
+        "A": "Khi bạn đã có đủ vốn để đảm bảo không rủi ro.",
+        "B": "Khi có một ý tưởng độc đáo và một đội ngũ phù hợp.",
+        "C": "Khi đã có đủ kiến thức và kỹ năng từ các khóa học.",
+        "D": "Khi bạn chắc chắn sẽ thành công và không thất bại."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Mục tiêu của việc nắm bắt xu hướng khởi nghiệp là gì?",
+      "options": {
+        "A": "Giúp doanh nghiệp không cần đổi mới sản phẩm.",
+        "B": "Tăng khả năng thành công khi sản phẩm/dịch vụ phù hợp với nhu cầu mới. ễ ề",
+        "C": "Giúp nhà đầu tư dễ dàng tìm kiếm các dự án truyền thống.",
+        "D": "Giúp doanh nghiệp chỉ tập trung vào thị trường nội địa."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "“Kỹ năng” của người khởi nghiệp được ví như gì?",
+      "options": {
+        "A": "Bản đồ để dẫn dắt hành trình",
+        "B": "Đôi chân giúp bạn đi đến đích",
+        "C": "Ngọn lửa khởi đầu và nhiên liệu",
+        "D": "Vùng đất màu mỡ để ươm mầm"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Đâu là một ví dụ của “Khởi nghiệp sáng tạo trong nông nghiệp” (AgriTech)?",
+      "options": {
+        "A": "Một chuỗi cửa hàng bán nông sản truyền thống",
+        "B": "Một ứng dụng bán rau củ trực tuyến",
+        "C": "Một giải pháp IoT giám sát và điều khiển tưới tiêu tự động",
+        "D": "Một doanh nghiệp sản xuất phân bón hóa học"
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Đâu là một trong những hạn chế của khởi nghiệp theo chuỗi (Franchise)?",
+      "options": {
+        "A": "Khả năng mở rộng quy mô chậm.",
+        "B": "Rủi ro thất bại cao.",
+        "C": "Phụ thuộc vào thương hiệu mẹ và ít sáng tạo.",
+        "D": "Cần rất nhiều vốn và nguồn lực."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Startup thường tập trung vào việc khai thác yếu tố nào để tạo ra sản phẩm/dịch vụ độc đáo?",
+      "options": {
+        "A": "Mô hình kinh doanh truyền thống",
+        "B": "Kinh nghiệm của người đi trước",
+        "C": "Vốn tự có và vay ngân hàng",
+        "D": "Công nghệ, tài sản trí tuệ hoặc mô hình kinh doanh mới"
+      },
+      "answer": "D"
+    },
+    {
+      "q": "Tầm quan trọng của việc nắm bắt xu hướng đối với người khởi nghiệp là gì?",
+      "options": {
+        "A": "Giúp họ tìm ra các mô hình kinh doanh truyền thống, an toàn hơn.",
+        "B": "Giúp họ chạy theo phong trào để thu hút sự chú ý. ắ",
+        "C": "Giúp họ bắt kịp nhịp thị trường và tăng khả năng thành công.",
+        "D": "Giúp họ giảm thiểu rủi ro và không cần đổi mới."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Nếu ví startup như “một hạt giống”, thì yếu tố nào trong hệ sinh thái khởi nghiệp được ví là “vườn ươm” để hạt nảy mầm?",
+      "options": {
+        "A": "Các trường đại học và viện nghiên cứu",
+        "B": "Các tổ chức hỗ trợ khởi nghiệp",
+        "C": "Nhà đầu tư",
+        "D": "Cộng đồng và thị trường"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "“Tố chất” được định nghĩa là gì trong bối cảnh khởi nghiệp?",
+      "options": {
+        "A": "Khả năng vận dụng kiến thức và kinh nghiệm để giải quyết vấn đề.",
+        "B": "Nền tảng tri thức mà người khởi nghiệp phải nắm để điều hành doanh nghiệp.",
+        "C": "Những đặc điểm cá nhân, tạo nên phong cách và sức mạnh nội tại của nhà khởi nghiệp.",
+        "D": "Khả năng truyền cảm hứng và dẫn dắt đội nhóm."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "“Khởi nghiệp kinh doanh truyền thống” có một đặc điểm là gì?",
+      "options": {
+        "A": "Dễ tiếp cận hơn và rủi ro thấp hơn so với startup.",
+        "B": "Thường có quy mô lớn và vốn đầu tư từ các quỹ mạo hiểm.",
+        "C": "Luôn áp dụng công nghệ để mở rộng quy mô nhanh chóng.",
+        "D": "Chỉ tập trung vào các sản phẩm độc đáo, chưa có trên thị trường."
+      },
+      "answer": "A"
+    },
+    {
+      "q": "“Startup công nghệ” được định nghĩa là gì?",
+      "options": {
+        "A": "Mô hình kinh doanh dựa trên việc tận dụng tài nguyên dư thừa.",
+        "B": "Xu hướng ứng dụng các công nghệ mới như AI, Blockchain để tạo ra sản phẩm/dịch vụ giải quyết vấn đề.",
+        "C": "Hình thức kinh doanh trên các nền tảng thương mại điện tử.",
+        "D": "Hình thức khởi nghiệp tạo ra các sản phẩm thân thiện môi trường."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Ví dụ về Grab thay đổi thói quen gọi xe truyền thống thông qua ứng dụng di động minh họa cho khía cạnh nào của khởi nghiệp?",
+      "options": {
+        "A": "Sự nghiệp mới",
+        "B": "Tính sáng tạo",
+        "C": "Tăng trưởng nhanh",
+        "D": "Khởi sự kinh doanh"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Việc một nhóm sinh viên thiếu vốn và kinh nghiệm quản lý nên tìm sự hỗ trợ từ đâu trong hệ sinh thái khởi nghiệp?",
+      "options": {
+        "A": "Tự học hỏi trên mạng xã hội.",
+        "B": "Tiếp cận các vườn ươm doanh nghiệp, nhà đầu tư thiên thần, hoặc chương trình hỗ trợ của chính phủ.",
+        "C": "Tìm kiếm sự hỗ trợ từ các trường đại học.",
+        "D": "Tập trung vào việc kêu gọi vốn từ người thân, bạn bè."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Sự khác biệt cốt lõi giữa “khởi nghiệp” và “khởi sự kinh doanh” là gì?",
+      "options": {
+        "A": "Khởi sự kinh doanh tập trung vào việc tìm kiếm lợi nhuận, còn khởi nghiệp thì không.",
+        "B": "Khởi nghiệp luôn có tiềm năng tăng trưởng cao, trong khi khởi sự kinh doanh không nhất thiết.",
+        "C": "Khởi nghiệp chỉ xảy ra ở các lĩnh vực công nghệ, trong khi khởi sự kinh doanh xảy ra ở mọi ngành.",
+        "D": "Khởi nghiệp có rủi ro thấp hơn vì được nhiều người hỗ trợ."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Ý tưởng ban đầu của Uber xuất phát từ vấn đề gì?",
+      "options": {
+        "A": "Thiếu phương tiện di chuyển công cộng.",
+        "B": "Vấn đề gọi taxi khó khăn, đặc biệt trong thời tiết xấu.",
+        "C": "Nhu cầu đi lại bằng xe cá nhân.",
+        "D": "Việc kết nối tài xế với khách hàng trên toàn cầu."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Nhận định nào sau đây về “tăng trưởng” trong khởi nghiệp là đúng?",
+      "options": {
+        "A": "“Tăng trưởng” là yếu tố phân biệt khởi nghiệp với khởi sự kinh doanh thông thường.",
+        "B": "“Tăng trưởng” chỉ xảy ra sau khi dự án đã có lợi nhuận ổn định.",
+        "C": "“Tăng trưởng” là yếu tố phụ, không quan trọng bằng “sự nghiệp mới” và “tính sáng tạo”.",
+        "D": "“Tăng trưởng” chỉ áp dụng cho các startup công nghệ."
+      },
+      "answer": "A"
+    },
+    {
+      "q": "Tại sao “Thương mại điện tử & Social Commerce” lại là một xu hướng khởi nghiệp?",
+      "options": {
+        "A": "Vì mô hình này chỉ cần vốn đầu tư thấp và không cần marketing.",
+        "B": "Vì nó giúp giảm sự cạnh tranh giữa các doanh nghiệp.",
+        "C": "Vì thói quen mua sắm online bùng nổ sau COVID-19 và livestream tạo cảm giác gần gũi.",
+        "D": "Vì nó chỉ phù hợp với các sản phẩm truyền thống, không cần đổi mới."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Sự thành công của Nguyễn Hải Ninh, Founder The Coffee House, được phân tích dựa trên sự kết hợp hài hòa của 3 yếu tố cốt lõi nào?",
+      "options": {
+        "A": "Vốn, kinh nghiệm và mạng lưới quan hệ.",
+        "B": "Đam mê, kiến thức về F&B và kỹ năng lãnh đạo, xây dựng chiến lược.",
+        "C": "Tinh thần dám chấp nhận rủi ro, khả năng quản lý và chiến lược dài hạn.",
+        "D": "Kiến thức về công nghệ, khả năng thích ứng và sự kiên trì."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Ví dụ về một kỹ sư phần mềm biến ứng dụng thử nghiệm thành công ty công nghệ minh họa cho khía cạnh nào của khởi nghiệp?",
+      "options": {
+        "A": "Tăng trưởng",
+        "B": "Sự nghiệp mới",
+        "C": "Tính sáng tạo",
+        "D": "Khởi sự kinh doanh truyền thống"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Yếu tố nào trong bối cảnh thị trường đang tác động mạnh mẽ đến sự thay đổi của xu hướng khởi nghiệp?",
+      "options": {
+        "A": "Thị trường toàn cầu hóa, dẫn đến sự cạnh tranh quốc tế gay gắt.",
+        "B": "Nhu cầu về sản phẩm truyền thống ngày càng tăng.",
+        "C": "Sự giảm sút trong các chính sách hỗ trợ của chính phủ.",
+        "D": "Người tiêu dùng quay lại các hình thức mua sắm truyền thống."
+      },
+      "answer": "A"
+    },
+    {
+      "q": "Nhận định nào sau đây là đúng về mối quan hệ giữa “Khởi sự kinh doanh” và “Khởi nghiệp”?",
+      "options": {
+        "A": "Khởi nghiệp là một khái niệm rộng hơn, bao trùm cả khởi sự kinh doanh.",
+        "B": "Khởi sự kinh doanh là một khái niệm rộng hơn, bao gồm cả khởi nghiệp.",
+        "C": "Hai khái niệm này hoàn toàn độc lập và không liên quan đến nhau.",
+        "D": "Khởi sự kinh doanh chỉ áp dụng cho các mô hình kinh doanh nhỏ lẻ, trong khi khởi nghiệp áp dụng cho các"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "mô hình lớn. Vai trò nào sau đây không thuộc về “nhà đầu tư” trong hệ sinh thái khởi nghiệp?",
+      "options": {
+        "A": "Cung cấp vốn.",
+        "B": "Tư vấn chiến lược và chia sẻ kinh nghiệm.",
+        "C": "Hỗ trợ pháp lý và không gian làm việc.",
+        "D": "Giúp kết nối mạng lưới quan hệ đối tác."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Một trong những kiến thức quan trọng mà nhà khởi nghiệp cần có là gì?",
+      "options": {
+        "A": "Kiến thức về văn hóa và nghệ thuật",
+        "B": "Kiến thức về lịch sử thế giới",
+        "C": "Kiến thức về ngành/lĩnh vực kinh doanh và kiến thức quản trị",
+        "D": "Kiến thức về tâm lý học"
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Đặc điểm nào sau đây là của “Trung tâm tăng tốc khởi nghiệp” (Accelerators)?",
+      "options": {
+        "A": "Hỗ trợ ý tưởng ở giai đoạn sơ khai, chưa có sản phẩm.",
+        "B": "Tập trung vào việc cung cấp không gian làm việc và cố vấn.",
+        "C": "Hỗ trợ startup đã có sản phẩm/dịch vụ tăng trưởng nhanh trong 3-6 tháng.",
+        "D": "Chỉ hoạt động trong lĩnh vực kinh doanh truyền thống."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Yếu tố nào sau đây là quan trọng nhất để khởi nghiệp thành công?",
+      "options": {
+        "A": "Tìm kiếm một mô hình đã thành công và sao chép.",
+        "B": "Chỉ tập trung vào một yếu tố duy nhất trong ba yếu tố: tố chất, kiến thức, kỹ năng.",
+        "C": "Có sự kết hợp hài hòa và quá trình rèn luyện liên tục của ba yếu tố: tố chất, kiến thức, kỹ năng.",
+        "D": "Có một ý tưởng đột phá và một khoản vốn lớn."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "“Cộng đồng và thị trường” được ví như gì trong hệ sinh thái khởi nghiệp?",
+      "options": {
+        "A": "Hạt giống.",
+        "B": "Vườn ươm.",
+        "C": "Ánh sáng mặt trời.",
+        "D": "Khí hậu và môi trường."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Tại sao “Nông nghiệp thông minh” là một xu hướng khởi nghiệp ở Việt Nam? ế ề ổ",
+      "options": {
+        "A": "Vì Việt Nam không có lợi thế về nông nghiệp nên cần đổi mới.",
+        "B": "Vì nhu cầu thực phẩm sạch, an toàn và Việt Nam có thế mạnh xuất khẩu nông sản.",
+        "C": "Vì đây là lĩnh vực có rủi ro thấp, dễ dàng thu hút đầu tư.",
+        "D": "Vì đây là lĩnh vực duy nhất được chính phủ hỗ trợ."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Đâu là một ví dụ về “khởi nghiệp xã hội”?",
+      "options": {
+        "A": "Doanh nghiệp sản xuất quần áo theo mô hình truyền thống.",
+        "B": "Dự án đào tạo nghề cho người khuyết tật.",
+        "C": "Một ứng dụng di động kết nối người dùng.",
+        "D": "Một quán cà phê mở chuỗi."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Một trong những lời khuyên dành cho nhà khởi nghiệp về việc nắm bắt xu hướng là gì?",
+      "options": {
+        "A": "Chỉ cần chạy theo phong trào để không bị tụt lại phía sau.",
+        "B": "Luôn kết hợp xu hướng với nhu cầu thực tế của thị trường.",
+        "C": "Chỉ tập trung vào xu hướng công nghệ cao vì chúng luôn mang lại lợi nhuận lớn.",
+        "D": "Chỉ cần đầu tư vào sản phẩm mà không cần quan tâm đến con người."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Ý tưởng về một chuỗi cửa hàng cà phê với thương hiệu và quy trình riêng được coi là gì?",
+      "options": {
+        "A": "Khởi sự kinh doanh thông thường.",
+        "B": "Một ví dụ về “sự nghiệp mới” trong khởi nghiệp.",
+        "C": "Một ví dụ về “kinh tế chia sẻ”.",
+        "D": "Một ví dụ về “khởi nghiệp tự do”."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Nhận định nào sau đây là đúng về “Khởi nghiệp tự do”?",
+      "options": {
+        "A": "Đây là mô hình chỉ dành cho các công ty lớn.",
+        "B": "Mô hình này yêu cầu vốn lớn và ít linh hoạt.",
+        "C": "Vốn thấp, chủ yếu dựa vào kỹ năng cá nhân và nền tảng trực tuyến.",
+        "D": "Khó mở rộng quy mô vì hoạt động một mình."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Yếu tố nào sau đây KHÔNG phải là một trong các yếu tố lớn đang tác động mạnh mẽ đến bối cảnh thị trường khởi nghiệp? ổ ổ",
+      "options": {
+        "A": "Sự ổn định và không thay đổi của các mô hình kinh doanh cũ.",
+        "B": "Công nghệ phát triển mạnh mẽ (AI, IoT, Blockchain).",
+        "C": "Hành vi tiêu dùng thay đổi, mua sắm online.",
+        "D": "Các vấn đề xã hội và môi trường."
+      },
+      "answer": "A"
+    },
+    {
+      "q": "Quỹ đầu tư mạo hiểm (Venture Capital) thường tham gia đầu tư khi startup ở giai đoạn nào?",
+      "options": {
+        "A": "Giai đoạn có ý tưởng ban đầu.",
+        "B": "Giai đoạn đã có sản phẩm và tiềm năng tăng trưởng nhanh.",
+        "C": "Giai đoạn chỉ mới có kế hoạch kinh doanh.",
+        "D": "Giai đoạn đã niêm yết trên thị trường chứng khoán."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Tại sao người khởi nghiệp cần phải biết cách tận dụng và kết nối trong hệ sinh thái khởi nghiệp?",
+      "options": {
+        "A": "Vì họ không thể đi một mình và cần mạng lưới hỗ trợ toàn diện.",
+        "B": "Vì chỉ có như vậy họ mới có đủ vốn để tồn tại.",
+        "C": "Vì đây là yêu cầu bắt buộc của chính phủ đối với các startup.",
+        "D": "Vì các nhà đầu tư chỉ hỗ trợ các dự án có mạng lưới rộng lớn."
+      },
+      "answer": "A"
+    },
+    {
+      "q": "Đâu là một trong những đặc điểm của Khởi nghiệp đổi mới sáng tạo (Startup)?",
+      "options": {
+        "A": "Rủi ro thất bại thấp, dễ tiếp cận.",
+        "B": "Quy mô vừa và nhỏ, vốn tự có.",
+        "C": "Có tiềm năng mở rộng quy mô nhanh, thường gắn với công nghệ.",
+        "D": "Thị trường tập trung chủ yếu là địa phương."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Một trong những thách thức của người khởi nghiệp là thiếu kiến thức quản trị kinh doanh. Điều này có thể được bồi đắp thông qua hình thức nào?",
+      "options": {
+        "A": "Chỉ thông qua các khóa học trên đại học.",
+        "B": "Chỉ bằng cách tự học và đọc sách.",
+        "C": "Thông qua các khóa học ngắn hạn, tự học, đọc sách, và học hỏi từ mentor.",
+        "D": "Chỉ bằng cách trải nghiệm thực tế."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Yếu tố nào trong hệ sinh thái khởi nghiệp được ví là “vùng đất màu mỡ” để nuôi dưỡng những hạt giống ý tưởng?",
+      "options": {
+        "A": "Chính phủ và các cơ quan quản lý.",
+        "B": "Các trường đại học và viện nghiên cứu.",
+        "C": "Nhà đầu tư.",
+        "D": "Các tổ chức hỗ trợ khởi nghiệp."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Đâu là một trong những đặc điểm của “Hệ sinh thái khởi nghiệp”?",
+      "options": {
+        "A": "Chỉ bao gồm các nhà khởi nghiệp và nhà đầu tư.",
+        "B": "Hoạt động độc lập, không có sự tương tác giữa các thành phần.",
+        "C": "Hoạt động trong một môi trường chính sách, kinh tế, xã hội nhất định và mang tính tương tác.",
+        "D": "Chỉ hoạt động trong lĩnh vực công nghệ cao."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "“Kinh tế chia sẻ” là mô hình kinh doanh như thế nào?",
+      "options": {
+        "A": "Tạo ra sản phẩm mới hoàn toàn.",
+        "B": "Tận dụng tài nguyên dư thừa thông qua nền tảng số.",
+        "C": "Sản xuất và bán hàng qua các kênh truyền thống.",
+        "D": "Chỉ tập trung vào việc tạo ra lợi nhuận cao mà không quan tâm đến tài nguyên."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "“Tính sáng tạo” trong khởi nghiệp thể hiện rõ nhất qua khía cạnh nào sau đây?",
+      "options": {
+        "A": "Khả năng tìm kiếm và áp dụng các mô hình kinh doanh đã có sẵn.",
+        "B": "Sự khác biệt hoàn toàn về mô hình kinh doanh, sản phẩm, hoặc cách thức vận hành.",
+        "C": "Nỗ lực tối ưu hóa quy trình để giảm chi phí sản xuất.",
+        "D": "Khả năng thuyết phục nhà đầu tư và khách hàng tiềm năng."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Đâu là điểm khác biệt cốt lõi nhất giữa “Khởi nghiệp Đổi mới Sáng tạo” (Startup) và “Khởi sự kinh doanh truyền thống”?",
+      "options": {
+        "A": "Startup tập trung vào lợi nhuận ngắn hạn, còn khởi sự kinh doanh truyền thống tập trung vào lợi nhuận dài hạn.",
+        "B": "Startup luôn đòi hỏi vốn đầu tư từ các quỹ mạo hiểm, trong khi khởi sự kinh doanh không cần.",
+        "C": "Startup có mô hình kinh doanh mới, có thể mở rộng quy mô một cách nhanh chóng, còn khởi sự kinh doanh thường duy trì quy mô ổn định. ẩ",
+        "D": "Startup thường kinh doanh sản phẩm, còn khởi sự kinh doanh thường kinh doanh dịch vụ."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Việc một dự án phát triển ứng dụng di động để kết nối người có nhu cầu với những người có khả năng giúp đỡ, tạo ra một nền tảng mới, được xếp vào loại hình khởi nghiệp nào?",
+      "options": {
+        "A": "Khởi nghiệp kinh doanh truyền thống",
+        "B": "Khởi nghiệp theo chuỗi",
+        "C": "Kinh tế chia sẻ",
+        "D": "Khởi nghiệp tự do"
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Trong hệ sinh thái khởi nghiệp, nếu ví nhà đầu tư như “nguồn dinh dưỡng” để startup phát triển, thì “vườn ươm doanh nghiệp” (Incubators) được ví là gì?",
+      "options": {
+        "A": "Kim chỉ nam dẫn đường cho dự án.",
+        "B": "Một môi trường an toàn để hạt giống nảy mầm.",
+        "C": "Nguồn nhân lực chất lượng cao.",
+        "D": "Kênh phân phối sản phẩm."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Tại sao “Khởi nghiệp xanh & bền vững” lại được xem là xu hướng tất yếu trong bối cảnh hiện tại?",
+      "options": {
+        "A": "Vì đây là mô hình duy nhất được nhà đầu tư quan tâm.",
+        "B": "Vì nó cho phép startup tăng trưởng đột phá mà không gặp rủi ro nào.",
+        "C": "Vì nó đáp ứng nhu cầu của người tiêu dùng về trách nhiệm xã hội và môi trường, đồng thời mang lại hiệu quả kinh doanh.",
+        "D": "Vì các startup “xanh” không phải cạnh tranh với các doanh nghiệp truyền thống."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Sự thành công của founder The Coffee House được dùng làm ví dụ để minh chứng cho điều gì?",
+      "options": {
+        "A": "Chỉ cần có đam mê là đủ để thành công trong khởi nghiệp.",
+        "B": "Tầm quan trọng của việc có đủ vốn đầu tư ban đầu.",
+        "C": "Sự kết hợp hài hòa giữa đam mê, kiến thức và kỹ năng là yếu tố quyết định.",
+        "D": "Kỹ năng lãnh đạo là yếu tố duy nhất làm nên thành công."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Trong hệ sinh thái khởi nghiệp, thành phần nào có vai trò tạo ra “khí hậu” thuận lợi cho sự phát triển chung?",
+      "options": {
+        "A": "Chính phủ và các cơ quan quản lý.",
+        "B": "Các trường đại học và viện nghiên cứu. ồ",
+        "C": "Cộng đồng và thị trường.",
+        "D": "Nhà đầu tư mạo hiểm."
+      },
+      "answer": "A"
+    },
+    {
+      "q": "Nhận định nào sau đây về “tố chất” của người khởi nghiệp là đúng?",
+      "options": {
+        "A": "Tố chất là khả năng bẩm sinh, không thể rèn luyện được.",
+        "B": "Tố chất là “kim chỉ nam” dẫn đường, còn kiến thức là “ngọn lửa khởi đầu”.",
+        "C": "Tố chất là những đặc điểm cá nhân, tạo nên sức mạnh nội tại và khả năng vượt khó.",
+        "D": "Tố chất chỉ đóng vai trò thứ yếu, không quan trọng bằng kiến thức và kỹ năng."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "“Sự nghiệp mới” trong khái niệm khởi nghiệp được phân biệt với “kinh doanh” ở điểm nào?",
+      "options": {
+        "A": "“Sự nghiệp mới” luôn tập trung vào việc tạo ra sản phẩm hoàn toàn độc đáo.",
+        "B": "“Sự nghiệp mới” là việc tạo ra một tổ chức hoặc mô hình kinh doanh chưa từng có, chứ không phải đơn thuần là tham gia vào một công việc đã tồn tại.",
+        "C": "“Sự nghiệp mới” luôn mang tính chất tạm thời, không bền vững.",
+        "D": "“Sự nghiệp mới” chỉ áp dụng cho các dự án kinh doanh có quy mô lớn."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Đâu là một trong những rào cản lớn nhất đối với một người có ý tưởng khởi nghiệp?",
+      "options": {
+        "A": "Thiếu khả năng sáng tạo và đổi mới trong mô hình kinh doanh.",
+        "B": "Thiếu vốn, kinh nghiệm và kỹ năng quản trị, lãnh đạo, quản lý.",
+        "C": "Thiếu sự hỗ trợ từ chính phủ và các tổ chức.",
+        "D": "Thiếu một ý tưởng kinh doanh thực sự đột phá và mới lạ."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "“Tăng trưởng” trong bối cảnh khởi nghiệp được hiểu là gì?",
+      "options": {
+        "A": "Tăng trưởng chỉ là việc tăng doanh thu và lợi nhuận qua từng năm.",
+        "B": "Tăng trưởng là khả năng mở rộng quy mô kinh doanh một cách nhanh chóng, thậm chí đột phá, trong thời gian ngắn.",
+        "C": "Tăng trưởng chỉ là việc tăng số lượng nhân sự.",
+        "D": "Tăng trưởng là việc tăng thị phần trong một thị trường đã bão hòa."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Nhận định nào sau đây là sai khi nói về “Tinh thần Khởi nghiệp” (Entrepreneurship)?",
+      "options": {
+        "A": "Entrepreneurship là một khái niệm rộng, bao trùm cả startup. ổ",
+        "B": "Entrepreneurship tập trung vào việc tìm kiếm và theo đuổi các cơ hội mới.",
+        "C": "Entrepreneurship chỉ được áp dụng trong bối cảnh kinh doanh.",
+        "D": "Entrepreneurship không chỉ dừng lại ở việc tạo ra một doanh nghiệp."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Để một ý tưởng khởi nghiệp có thể biến thành hiện thực, người khởi nghiệp cần những yếu tố cốt lõi nào?",
+      "options": {
+        "A": "Chỉ cần một ý tưởng độc đáo và sự kiên trì.",
+        "B": "Tố chất, kiến thức và kỹ năng.",
+        "C": "Vốn đầu tư, mối quan hệ và sự may mắn.",
+        "D": "Khả năng thuyết trình, kỹ năng bán hàng và marketing."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Việc một quán phở truyền thống tìm cách mở rộng quy mô bằng cách nhượng quyền thương hiệu cho người khác được xem là gì?",
+      "options": {
+        "A": "Một ví dụ về “Khởi nghiệp theo chuỗi”.",
+        "B": "Một ví dụ về “Khởi nghiệp đổi mới sáng tạo” do có sự tăng trưởng.",
+        "C": "Một ví dụ về “Khởi nghiệp xã hội”.",
+        "D": "Một ví dụ về “Khởi nghiệp tự do”."
+      },
+      "answer": "A"
+    },
+    {
+      "q": "Đâu là lý do chính khiến các startup cần tìm kiếm các quỹ đầu tư mạo hiểm thay vì vay ngân hàng truyền thống?",
+      "options": {
+        "A": "Quỹ mạo hiểm luôn cung cấp vốn với lãi suất thấp hơn ngân hàng.",
+        "B": "Ngân hàng không đầu tư vào các dự án có rủi ro cao.",
+        "C": "Quỹ mạo hiểm không chỉ cung cấp vốn mà còn tư vấn chiến lược và mạng lưới quan hệ.",
+        "D": "Ngân hàng chỉ cho vay đối với các doanh nghiệp đã có lợi nhuận ổn định."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Tại sao việc nắm bắt xu hướng là quan trọng đối với người khởi nghiệp?",
+      "options": {
+        "A": "Giúp họ chạy theo trào lưu để thu hút sự chú ý.",
+        "B": "Giúp họ tìm ra những thị trường ngách mới mà đối thủ chưa khai thác.",
+        "C": "Giúp họ xây dựng sản phẩm/dịch vụ phù hợp với nhu cầu và hành vi tiêu dùng thay đổi.",
+        "D": "Giúp họ tránh được mọi rủi ro có thể xảy ra trong quá trình kinh doanh."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Vai trò của các trường đại học trong hệ sinh thái khởi nghiệp là gì? ễ",
+      "options": {
+        "A": "Chỉ là nơi cung cấp kiến thức lý thuyết mà không có vai trò thực tiễn nào.",
+        "B": "Cung cấp nguồn nhân lực chất lượng cao, thúc đẩy nghiên cứu và chuyển giao công nghệ.",
+        "C": "Là nhà đầu tư chính cho các dự án khởi nghiệp từ sinh viên.",
+        "D": "Chịu trách nhiệm về việc tạo ra các chính sách hỗ trợ khởi nghiệp."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Yếu tố nào sau đây được xem là “nguồn nhiên liệu” để người khởi nghiệp bước vào hành trình?",
+      "options": {
+        "A": "Kiến thức.",
+        "B": "Kỹ năng.",
+        "C": "Vốn đầu tư.",
+        "D": "Tố chất."
+      },
+      "answer": "D"
+    },
+    {
+      "q": "Sự khác nhau cơ bản giữa “Khởi nghiệp đổi mới sáng tạo” và “Khởi nghiệp xã hội” là gì?",
+      "options": {
+        "A": "Khởi nghiệp đổi mới sáng tạo tập trung vào lợi nhuận, còn Khởi nghiệp xã hội tập trung vào các vấn đề môi trường.",
+        "B": "Khởi nghiệp đổi mới sáng tạo áp dụng công nghệ, còn Khởi nghiệp xã hội thì không.",
+        "C": "Khởi nghiệp đổi mới sáng tạo ưu tiên lợi nhuận và tốc độ tăng trưởng, trong khi Khởi nghiệp xã hội cân bằng giữa lợi nhuận và mục tiêu giải quyết vấn đề xã hội.",
+        "D": "Khởi nghiệp đổi mới sáng tạo hoạt động ở các nước phát triển, còn Khởi nghiệp xã hội hoạt động ở các nước"
+      },
+      "answer": "C"
+    },
+    {
+      "q": "đang phát triển. Yếu tố nào trong hệ sinh thái khởi nghiệp đóng vai trò quan trọng trong việc đưa các startup ra thị trường và kết nối họ với khách hàng tiềm năng?",
+      "options": {
+        "A": "Các tổ chức hỗ trợ khởi nghiệp.",
+        "B": "Cộng đồng và thị trường.",
+        "C": "Chính phủ và các cơ quan quản lý.",
+        "D": "Các trường đại học."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "“Kỹ năng” của người khởi nghiệp được ví như “đôi chân” giúp họ đi đến đích. Vậy “kiến thức” được ví như gì?",
+      "options": {
+        "A": "“Ngọn lửa khởi đầu” để bước vào hành trình.",
+        "B": "“Kim chỉ nam” dẫn hướng.",
+        "C": "“Nguồn dinh dưỡng” để phát triển.",
+        "D": "“Khí hậu và môi trường” thuận lợi."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Một startup công nghệ với tiềm năng tăng trưởng đột phá sẽ hấp dẫn các đối tượng nào?",
+      "options": {
+        "A": "Các nhà đầu tư mạo hiểm và quỹ đầu tư.",
+        "B": "Các ngân hàng thương mại truyền thống.",
+        "C": "Các doanh nghiệp nhà nước.",
+        "D": "Các tổ chức phi lợi nhuận."
+      },
+      "answer": "A"
+    },
+    {
+      "q": "Nhận định nào sau đây về “Khởi nghiệp tự do” là đúng nhất?",
+      "options": {
+        "A": "Khởi nghiệp tự do chỉ giới hạn ở các lĩnh vực liên quan đến nghệ thuật và sáng tạo.",
+        "B": "Mô hình này đòi hỏi vốn lớn nhưng rủi ro thấp.",
+        "C": "Đặc điểm nổi bật là sự linh hoạt cao, dựa vào kỹ năng cá nhân và thường hoạt động trên các nền tảng trực tuyến.",
+        "D": "Khởi nghiệp tự do là một hình thức kinh doanh nhỏ lẻ không có khả năng mở rộng."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Tại sao các doanh nghiệp truyền thống cần phải học hỏi và áp dụng “tinh thần khởi nghiệp”?",
+      "options": {
+        "A": "Để chuyển đổi hoàn toàn sang mô hình kinh doanh startup.",
+        "B": "Để duy trì lợi nhuận ổn định mà không cần đổi mới.",
+        "C": "Để tạo ra sự đổi mới, tìm kiếm cơ hội mới và phát triển bền vững trong bối cảnh thị trường thay đổi.",
+        "D": "Để thu hút vốn đầu tư từ các quỹ mạo hiểm."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Một trong những thách thức lớn nhất của các startup là gì?",
+      "options": {
+        "A": "Thiếu ý tưởng và sự sáng tạo.",
+        "B": "Thiếu sự hỗ trợ từ chính phủ.",
+        "C": "Thiếu vốn, kinh nghiệm quản lý và kỹ năng lãnh đạo.",
+        "D": "Thiếu sự cạnh tranh trên thị trường."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Sự khác biệt giữa “Vườn ươm doanh nghiệp” (Incubators) và “Trung tâm tăng tốc khởi nghiệp” (Accelerators) là gì?",
+      "options": {
+        "A": "Vườn ươm hỗ trợ ý tưởng giai đoạn đầu, trong khi trung tâm tăng tốc hỗ trợ startup đã có sản phẩm để tăng trưởng nhanh.",
+        "B": "Vườn ươm chỉ cung cấp vốn, trong khi trung tâm tăng tốc chỉ cung cấp không gian làm việc.",
+        "C": "Vườn ươm chỉ hoạt động trong lĩnh vực công nghệ, trong khi trung tâm tăng tốc hoạt động ở mọi lĩnh vực. ắ",
+        "D": "Vườn ươm có thời gian hỗ trợ ngắn hơn trung tâm tăng tốc."
+      },
+      "answer": "A"
+    },
+    {
+      "q": "Nhận định nào sau đây là sai khi nói về hệ sinh thái khởi nghiệp?",
+      "options": {
+        "A": "Hệ sinh thái bao gồm nhiều thành phần khác nhau, tương tác lẫn nhau.",
+        "B": "Chính phủ đóng vai trò quan trọng trong việc tạo ra môi trường pháp lý.",
+        "C": "Hệ sinh thái chỉ tồn tại ở các quốc gia phát triển mạnh về công nghệ.",
+        "D": "Các trường đại học đóng vai trò quan trọng trong việc cung cấp nhân lực và nghiên cứu."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Đâu là một trong những điểm khác biệt chính giữa “Khởi nghiệp xã hội” và “Khởi sự kinh doanh truyền thống”?",
+      "options": {
+        "A": "Khởi nghiệp xã hội không tạo ra lợi nhuận, còn khởi sự kinh doanh thì có.",
+        "B": "Khởi nghiệp xã hội luôn có tiềm năng tăng trưởng đột phá, còn khởi sự kinh doanh thì không.",
+        "C": "Khởi nghiệp xã hội có mục tiêu kép là giải quyết vấn đề xã hội/môi trường và tạo ra lợi nhuận, trong khi khởi sự kinh doanh truyền thống chủ yếu tập trung vào lợi nhuận.",
+        "D": "Khởi nghiệp xã hội chỉ áp dụng cho các dự án phi lợi nhuận."
+      },
+      "answer": "C"
+    }
+  ],
+  "ch2": [
+    {
+      "q": "Điểm khởi đầu quan trọng nhất trong hành trình khởi nghiệp là gì?",
+      "options": {
+        "A": "Vốn đầu tư",
+        "B": "Ý tưởng kinh doanh",
+        "C": "Nguồn nhân lực",
+        "D": "Kinh nghiệm"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Trong quá trình phát triển thành doanh nghiệp, ý tưởng khởi nghiệp được ví như gì?",
+      "options": {
+        "A": "Cánh buồm",
+        "B": "Hạt giống",
+        "C": "Nền móng",
+        "D": "Kim chỉ nam"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Các yếu tố cần có của một ý tưởng khởi nghiệp là:",
+      "options": {
+        "A": "Đơn giản, hiệu quả, chi phí thấp",
+        "B": "Có sự đổi mới, tạo ra giá trị, có tiềm năng mở rộng",
+        "C": "Phù hợp, khả thi, dễ triển khai",
+        "D": "Độc đáo, mới lạ, thị trường lớn"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "\"Pain Point\" trong khởi nghiệp được hiểu là gì?",
+      "options": {
+        "A": "Điểm mạnh của đối thủ",
+        "B": "Nỗi đau, khó khăn, sự bất tiện của khách hàng",
+        "C": "Rủi ro trong kinh doanh",
+        "D": "Điểm yếu của người khởi nghiệp"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "\"Gain Point\" trong khởi nghiệp được hiểu là gì?",
+      "options": {
+        "A": "Lợi nhuận tài chính",
+        "B": "Giá trị mới, lợi ích vượt trội",
+        "C": "Khả năng tăng trưởng",
+        "D": "Lợi thế cạnh tranh"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Ý tưởng khởi nghiệp tốt phải giải quyết được loại giá trị nào cho khách hàng?",
+      "options": {
+        "A": "Pain Point và Gain Point",
+        "B": "Lợi nhuận và chi phí",
+        "C": "Mối quan hệ và trải nghiệm",
+        "D": "Sản phẩm và dịch vụ"
+      },
+      "answer": "A"
+    },
+    {
+      "q": "Yếu tố nào giúp người khởi nghiệp gắn bó và kiên trì, đặc biệt khi gặp khó khăn?",
+      "options": {
+        "A": "Kinh nghiệm chuyên môn",
+        "B": "Đam mê và sở trường",
+        "C": "Nguồn vốn",
+        "D": "Mối quan hệ"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Ứng dụng Elsa Speak ra đời từ nguồn ý tưởng nào?",
+      "options": {
+        "A": "Từ đổi mới công nghệ",
+        "B": "Từ phân tích thị trường",
+        "C": "Từ chính vấn đề cá nhân của nhà sáng lập",
+        "D": "Từ mô hình kinh doanh đã có"
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Nguồn ý tưởng từ phân tích thị trường và xu hướng xã hội đòi hỏi người khởi nghiệp phải có vai trò gì?",
+      "options": {
+        "A": "Nhà phát minh",
+        "B": "Nhà đầu tư",
+        "C": "Nhà quan sát thị trường",
+        "D": "Nhà quản lý"
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Đâu không phải là cách để tìm ý tưởng từ khách hàng?",
+      "options": {
+        "A": "Quan sát hành vi mua sắm",
+        "B": "Lắng nghe phản hồi và phàn nàn",
+        "C": "Đặt hàng online",
+        "D": "Khảo sát và phỏng vấn trực tiếp"
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Việc Tiki ban đầu chỉ bán sách và sau đó mở rộng sang các sản phẩm khác là ví dụ cho việc tận dụng nguồn ý tưởng nào?",
+      "options": {
+        "A": "Từ bản thân",
+        "B": "Từ đổi mới sản phẩm có sẵn",
+        "C": "Từ phân tích thị trường và nhu cầu khách hàng",
+        "D": "Từ mô hình thất bại"
+      },
+      "answer": "C"
+    },
+    {
+      "q": "\"Đổi mới từ sản phẩm/dịch vụ hiện có\" có nghĩa là gì?",
+      "options": {
+        "A": "Tạo ra sản phẩm hoàn toàn mới",
+        "B": "Cải tiến sản phẩm đã tồn tại để nó tốt hơn, rẻ hơn, nhanh hơn",
+        "C": "Mua lại một sản phẩm đã có thương hiệu",
+        "D": "Nhượng quyền kinh doanh"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Ví dụ về Grab tối ưu hóa cách đặt xe và thanh toán qua ứng dụng là minh họa cho hướng cải tiến nào?",
+      "options": {
+        "A": "Nâng cao chất lượng",
+        "B": "Giảm chi phí",
+        "C": "Tối ưu quy trình và gia tăng tiện ích",
+        "D": "Tối ưu vận hành"
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Theo quan niệm \"ý tưởng khởi nghiệp không cần phải 'trên trời'\", thì nó cần phải như thế nào?",
+      "options": {
+        "A": "Chi phí thấp",
+        "B": "Sát với nhu cầu và nỗi đau thực sự của khách hàng",
+        "C": "Dễ dàng triển khai",
+        "D": "Có nhiều nhà đầu tư quan tâm"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Mô hình nào được sử dụng để đánh giá bản thân và nguồn lực?",
+      "options": {
+        "A": "Mô hình 5 áp lực cạnh tranh",
+        "B": "Mô hình SWOT cá nhân",
+        "C": "Mô hình PESTEL",
+        "D": "Mô hình TAM – SAM – SOM"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "S trong SWOT cá nhân là viết tắt của từ gì?",
+      "options": {
+        "A": "Sales",
+        "B": "Strengths",
+        "C": "Strategy",
+        "D": "Success"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "W trong SWOT cá nhân là viết tắt của từ gì?",
+      "options": {
+        "A": "Weaknesses",
+        "B": "Wealth",
+        "C": "Willingness",
+        "D": "Work"
+      },
+      "answer": "A"
+    },
+    {
+      "q": "O trong SWOT cá nhân là viết tắt của từ gì?",
+      "options": {
+        "A": "Online",
+        "B": "Objective",
+        "C": "Opportunities",
+        "D": "Operation"
+      },
+      "answer": "C"
+    },
+    {
+      "q": "T trong SWOT cá nhân là viết tắt của từ gì?",
+      "options": {
+        "A": "Threats",
+        "B": "Team",
+        "C": "Target",
+        "D": "Time"
+      },
+      "answer": "A"
+    },
+    {
+      "q": "\"Kinh nghiệm chuyên môn tốt\" là ví dụ của yếu tố nào trong mô hình SWOT cá nhân?",
+      "options": {
+        "A": "Điểm yếu",
+        "B": "Điểm mạnh",
+        "C": "Cơ hội",
+        "D": "Thách thức"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "\"Thiếu kinh nghiệm quản lý\" là ví dụ của yếu tố nào trong mô hình SWOT cá nhân?",
+      "options": {
+        "A": "Điểm mạnh",
+        "B": "Điểm yếu",
+        "C": "Cơ hội",
+        "D": "Thách thức"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "\"Thị trường đang phát triển nhanh\" là ví dụ của yếu tố nào trong mô hình SWOT cá nhân?",
+      "options": {
+        "A": "Điểm mạnh",
+        "B": "Điểm yếu",
+        "C": "Cơ hội",
+        "D": "Thách thức"
+      },
+      "answer": "C"
+    },
+    {
+      "q": "\"Cạnh tranh gay gắt\" là ví dụ của yếu tố nào trong mô hình SWOT cá nhân?",
+      "options": {
+        "A": "Điểm yếu",
+        "B": "Điểm mạnh",
+        "C": "Cơ hội",
+        "D": "Thách thức"
+      },
+      "answer": "D"
+    },
+    {
+      "q": "Để đi đúng hướng, người khởi nghiệp cần hiểu rõ điều gì?",
+      "options": {
+        "A": "Thị trường",
+        "B": "Khách hàng",
+        "C": "Chính mình",
+        "D": "Đối thủ"
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Ý tưởng khởi nghiệp không tự nhiên mà có, mà nó hình thành từ việc:",
+      "options": {
+        "A": "Học từ sách vở",
+        "B": "Quan sát, lắng nghe, trải nghiệm và phân tích cuộc sống",
+        "C": "Sao chép mô hình thành công",
+        "D": "Ngẫu nhiên xuất hiện"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Mặc dù ý tưởng không nhất thiết là phát minh vĩ đại, nhưng bản chất của nó phải là:",
+      "options": {
+        "A": "Một giải pháp hiệu quả cho một vấn đề có thật",
+        "B": "Một sản phẩm hoàn toàn chưa từng có",
+        "C": "Một dịch vụ có chi phí thấp nhất thị trường",
+        "D": "Một sản phẩm có thể bán rộng rãi"
+      },
+      "answer": "A"
+    },
+    {
+      "q": "Việc một ý tưởng có thị trường quá nhỏ sẽ dẫn đến hạn chế gì?",
+      "options": {
+        "A": "Dễ bị đối thủ cạnh tranh",
+        "B": "Khó phát triển lâu dài và mở rộng",
+        "C": "Dễ bị mất vốn",
+        "D": "Chi phí marketing cao"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Việc ứng dụng công nghệ AI để phân tích da và tư vấn mỹ phẩm phù hợp là ví dụ cho việc tận dụng nguồn ý tưởng nào?",
+      "options": {
+        "A": "Từ bản thân",
+        "B": "Từ đổi mới sản phẩm có sẵn",
+        "C": "Từ sự thay đổi của môi trường kinh doanh",
+        "D": "Từ phân tích mô hình thành công"
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Việc Bphone thất bại một phần vì định vị sai phân khúc và marketing chưa tạo được sức hút với số đông là ví dụ cho sai lầm nào?",
+      "options": {
+        "A": "Đốt tiền quá nhanh",
+        "B": "Quản lý yếu kém",
+        "C": "Sai lầm về thị trường và chiến lược",
+        "D": "Thiếu mô hình kinh doanh"
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Mô hình SWOT cá nhân giúp người khởi nghiệp hiểu rõ những yếu tố nào?",
+      "options": {
+        "A": "Điểm mạnh và điểm yếu của đối thủ",
+        "B": "Điểm mạnh, điểm yếu, cơ hội và thách thức của bản thân",
+        "C": "Xu hướng thị trường và nhu cầu khách hàng",
+        "D": "Mối quan hệ và nguồn vốn"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Đâu là một ví dụ về \"Pain Point\" trong lĩnh vực chăm sóc sức khỏe?",
+      "options": {
+        "A": "Bệnh nhân muốn có bác sĩ giỏi",
+        "B": "Bệnh nhân muốn được khám bệnh tại nhà, không phải chờ đợi",
+        "C": "Bệnh nhân muốn được điều trị miễn phí",
+        "D": "Bệnh nhân muốn có nhiều loại thuốc khác nhau"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Đâu là một ví dụ về \"Gain Point\" mà một ứng dụng đặt món ăn mang lại?",
+      "options": {
+        "A": "Bán được nhiều món ăn",
+        "B": "Khách hàng không cần ra ngoài mà vẫn có đồ ăn yêu thích",
+        "C": "Có nhiều đối tác là nhà hàng",
+        "D": "Lợi nhuận cao cho công ty"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Việc một startup tận dụng sự thay đổi về nhân khẩu học như \"Già hóa dân số\" để phát triển dịch vụ chăm sóc sức khỏe là ví dụ cho nguồn ý tưởng nào?",
+      "options": {
+        "A": "Từ bản thân",
+        "B": "Từ đổi mới sản phẩm",
+        "C": "Từ phân tích thị trường",
+        "D": "Từ mô hình thất bại"
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Hướng cải tiến nào nhằm làm cho mọi thứ nhanh hơn, ít thao tác hơn?",
+      "options": {
+        "A": "Nâng cao chất lượng",
+        "B": "Giảm chi phí",
+        "C": "Tối ưu quy trình",
+        "D": "Gia tăng tiện ích"
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Nguồn ý tưởng từ \"đổi mới sản phẩm/dịch vụ hiện có\" giúp giảm rủi ro thất bại vì:",
+      "options": {
+        "A": "Chi phí đầu tư thấp",
+        "B": "Không phải đi \"mò đường\" trong một thị trường hoàn toàn mới",
+        "C": "Có đội ngũ sẵn có",
+        "D": "Có nguồn vốn dồi dào"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Điều quan trọng nhất khi học từ các mô hình kinh doanh thành công là gì?",
+      "options": {
+        "A": "Sao chép chính xác những gì họ đã làm",
+        "B": "Hiểu được yếu tố đột phá và lợi thế cạnh tranh của họ",
+        "C": "Tìm kiếm nhà đầu tư đã tài trợ cho họ",
+        "D": "Cạnh tranh bằng cách đưa ra giá thấp hơn"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Tầm quan trọng của việc \"Đánh giá bản thân\" trước khi bắt đầu khởi nghiệp là gì?",
+      "options": {
+        "A": "Giúp tìm ra nhà đầu tư",
+        "B": "Giúp chọn được ý tưởng phù hợp nhất với năng lực của mình",
+        "C": "Giúp tìm ra điểm yếu của đối thủ",
+        "D": "Giúp cạnh tranh tốt hơn"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "\"Thiếu kinh nghiệm quản lý\" là một hạn chế nội tại, thuộc yếu tố nào trong mô hình SWOT cá nhân?",
+      "options": {
+        "A": "Điểm mạnh",
+        "B": "Điểm yếu",
+        "C": "Cơ hội",
+        "D": "Thách thức"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Việc \"Nhu cầu khách hàng tăng cao\" là một yếu tố bên ngoài mà người khởi nghiệp có thể tận dụng, thuộc yếu tố nào trong mô hình SWOT cá nhân?",
+      "options": {
+        "A": "Điểm mạnh",
+        "B": "Điểm yếu",
+        "C": "Cơ hội",
+        "D": "Thách thức"
+      },
+      "answer": "C"
+    },
+    {
+      "q": "\"Biến động kinh tế\" là một rủi ro từ môi trường bên ngoài, thuộc yếu tố nào trong mô hình SWOT cá nhân?",
+      "options": {
+        "A": "Điểm mạnh",
+        "B": "Điểm yếu",
+        "C": "Cơ hội",
+        "D": "Thách thức"
+      },
+      "answer": "D"
+    },
+    {
+      "q": "Tại sao việc giải quyết được \"Pain Point\" của khách hàng là rất quan trọng đối với một ý tưởng khởi nghiệp?",
+      "options": {
+        "A": "Vì nó giúp sản phẩm có giá cao hơn",
+        "B": "Vì nó giúp sản phẩm được khách hàng quan tâm và chấp nhận",
+        "C": "Vì nó giúp giảm chi phí marketing",
+        "D": "Vì nó là yêu cầu bắt buộc của nhà đầu tư"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "\"Tối ưu quy trình\" là một hướng cải tiến nhằm mang lại \"Gain Point\" nào cho khách hàng?",
+      "options": {
+        "A": "Giảm giá thành",
+        "B": "Sản phẩm có chất lượng cao hơn",
+        "C": "Tiết kiệm thời gian và công sức",
+        "D": "Tăng số lượng sản phẩm"
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Việc Highlands Coffee nâng cấp không gian và dịch vụ, cung cấp wifi miễn phí là ví dụ cho hướng cải tiến nào?",
+      "options": {
+        "A": "Tối ưu quy trình",
+        "B": "Nâng cao chất lượng và gia tăng tiện ích",
+        "C": "Giảm chi phí",
+        "D": "Thay đổi sản phẩm"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Một trong những bài học tổng kết từ các mô hình thành công và thất bại là \"Nghiên cứu thị trường thật kỹ trước khi tung sản phẩm\". Điều này giúp tránh được sai lầm nào?",
+      "options": {
+        "A": "Thiếu vốn đầu tư",
+        "B": "Chọn sai thị trường",
+        "C": "Thiếu đội ngũ",
+        "D": "Đốt tiền quá nhanh"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Sự thay đổi về hành vi tiêu dùng như \"Mua sắm online\" tạo cơ hội cho những ý tưởng kinh doanh nào?",
+      "options": {
+        "A": "Các cửa hàng bán lẻ truyền thống ẩ ễ",
+        "B": "Sản phẩm dễ vận chuyển, bán trên các sàn thương mại điện tử",
+        "C": "Dịch vụ du lịch",
+        "D": "Dịch vụ chăm sóc sức khỏe tại nhà"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Việc một startup thất bại vì \"đốt tiền quá nhanh\" có nghĩa là gì?",
+      "options": {
+        "A": "Chi tiêu vượt xa doanh thu, hết vốn trước khi kịp tạo lợi nhuận",
+        "B": "Chi phí marketing quá cao",
+        "C": "Lương nhân viên quá cao",
+        "D": "Giá sản phẩm quá rẻ"
+      },
+      "answer": "A"
+    },
+    {
+      "q": "Việc tìm kiếm những \"nhu cầu ẩn\" của khách hàng đòi hỏi người khởi nghiệp phải làm gì?",
+      "options": {
+        "A": "Nhanh chóng tạo ra sản phẩm mới",
+        "B": "Đưa ra các chương trình khuyến mãi",
+        "C": "Quan sát, lắng nghe và khảo sát khách hàng một cách tinh ý",
+        "D": "Bắt chước đối thủ cạnh tranh"
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Khi đánh giá bản thân, câu hỏi \"Mình có sẵn sàng học hỏi để bù đắp những thiếu sót không?\" giúp người khởi nghiệp nhận ra điều gì?",
+      "options": {
+        "A": "Nguồn vốn cần thiết",
+        "B": "Sự linh hoạt và khả năng thích ứng với những kiến thức mới",
+        "C": "Đam mê",
+        "D": "Khả năng lãnh đạo"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Lý do tại sao một ý tưởng hay đến đâu nhưng nếu người thực hiện không phù hợp thì khả năng thất bại vẫn rất cao?",
+      "options": {
+        "A": "Vì họ không đủ vốn để thực hiện",
+        "B": "Vì họ không có đam mê, kiến thức hoặc kỹ năng cần thiết để vượt qua khó khăn",
+        "C": "Vì họ không thể tìm được đội ngũ phù hợp",
+        "D": "Vì thị trường sẽ không chấp nhận họ"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Ý tưởng khởi nghiệp phải \"sát đất\" nghĩa là sát với yếu tố nào?",
+      "options": {
+        "A": "Khả năng tài chính",
+        "B": "Nhu cầu và “nỗi đau” thực sự của khách hàng",
+        "C": "Đối thủ cạnh tranh",
+        "D": "Xu hướng xã hội"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Một trong những lợi ích lớn nhất của việc cải tiến sản phẩm/dịch vụ hiện có là gì?",
+      "options": {
+        "A": "Không cần đầu tư",
+        "B": "Giảm rủi ro thất bại vì đã có thị trường sẵn có",
+        "C": "Tạo ra sản phẩm hoàn toàn mới",
+        "D": "Vượt qua mọi đối thủ"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Yếu tố cốt lõi giúp ý tưởng khởi nghiệp thành công là giải quyết được \"Pain Point\" và mang lại \"Gain Point\". Vậy, \"Pain Point\" và \"Gain Point\" được hiểu là gì?",
+      "options": {
+        "A": "Điểm mạnh và điểm yếu của đối thủ",
+        "B": "Nỗi đau và lợi ích",
+        "C": "Rủi ro và cơ hội",
+        "D": "Chi phí và lợi nhuận"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Việc phân tích mô hình kinh doanh của MoMo cho thấy họ đã thành công nhờ đáp ứng nhu cầu nào của khách hàng?",
+      "options": {
+        "A": "Mua sắm online",
+        "B": "Thanh toán tiện lợi",
+        "C": "Vay tiền nhanh",
+        "D": "Chơi game"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Một ý tưởng được coi là có tiềm năng mở rộng khi nó có khả năng gì?",
+      "options": {
+        "A": "Dễ dàng được sao chép",
+        "B": "Phát triển thành một doanh nghiệp thực sự và không bị giới hạn về quy mô",
+        "C": "Tạo ra lợi nhuận ngay lập tức",
+        "D": "Thu hút nhiều đối thủ cạnh tranh"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Ý ồ Ý tưởng từ \"phân tích thị trường và xu hướng xã hội\" là nguồn ý tưởng mạnh vì:",
+      "options": {
+        "A": "Dễ dàng tìm thấy đối thủ cạnh tranh",
+        "B": "Đánh trúng sự thay đổi trong lối sống và giá trị của khách hàng",
+        "C": "Giảm chi phí đầu tư",
+        "D": "Dễ dàng tạo ra sản phẩm"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "\"Đốt tiền quá nhanh\" là một trong những nguyên nhân chính dẫn đến thất bại của startup. Nguyên nhân này liên quan đến khía cạnh nào?",
+      "options": {
+        "A": "Sản phẩm không tốt",
+        "B": "Quản trị tài chính không hiệu quả",
+        "C": "Không có đội ngũ",
+        "D": "Thiếu ý tưởng"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Yếu tố nào giúp người khởi nghiệp duy trì động lực lâu dài trong quá trình khởi nghiệp?",
+      "options": {
+        "A": "Vốn đầu tư",
+        "B": "Đam mê và sở trường",
+        "C": "Mối quan hệ",
+        "D": "Khả năng phân tích"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "\"USP\" (Unique Selling Proposition) là một tiêu chí quan trọng để đánh giá ý tưởng. Nó có thể là gì?",
+      "options": {
+        "A": "Sản phẩm độc đáo, dịch vụ tốt hơn hoặc trải nghiệm mới lạ",
+        "B": "Chi phí sản xuất thấp nhất",
+        "C": "Lợi nhuận cao nhất",
+        "D": "Số lượng khách hàng lớn nhất"
+      },
+      "answer": "A"
+    },
+    {
+      "q": "Việc phân tích \"Kinh nghiệm chuyên môn\" trong quá trình tự đánh giá bản thân giúp người khởi nghiệp làm gì?",
+      "options": {
+        "A": "Tìm kiếm ý tưởng từ những lĩnh vực mình đã tích lũy kiến thức",
+        "B": "Nhanh chóng tìm được đối tác",
+        "C": "Tìm ra điểm yếu của mình",
+        "D": "Vượt qua mọi đối thủ cạnh tranh"
+      },
+      "answer": "A"
+    },
+    {
+      "q": "ằ \"Gia tăng tiện ích\" là hướng cải tiến nhằm mang lại \"Gain Point\" nào cho khách hàng?",
+      "options": {
+        "A": "Tăng tốc độ giao hàng",
+        "B": "Thêm tính năng, dịch vụ hỗ trợ",
+        "C": "Giảm giá sản phẩm",
+        "D": "Cải thiện chất lượng"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Một ý tưởng kinh doanh không thể tồn tại lâu dài nếu nó không giải quyết được:",
+      "options": {
+        "A": "Nhu cầu của khách hàng",
+        "B": "Vấn đề tài chính",
+        "C": "Yêu cầu của nhà đầu tư",
+        "D": "Sự cạnh tranh"
+      },
+      "answer": "A"
+    },
+    {
+      "q": "Một trong những lợi thế của ý tưởng xuất phát từ kinh nghiệm chuyên môn là:",
+      "options": {
+        "A": "Vốn đầu tư thấp",
+        "B": "Giảm rủi ro và tăng lợi thế cạnh tranh",
+        "C": "Dễ dàng tiếp cận khách hàng",
+        "D": "Nhanh chóng tạo ra lợi nhuận"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Khi phân tích mô hình kinh doanh, việc \"quản trị rủi ro tài chính\" là bài học quan trọng để tránh sai lầm nào?",
+      "options": {
+        "A": "Thiếu đội ngũ",
+        "B": "Đốt tiền quá nhanh",
+        "C": "Chọn sai thị trường",
+        "D": "Sản phẩm không tốt"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Tại sao một ý tưởng hay nhưng thị trường quá nhỏ sẽ khó phát triển lâu dài?",
+      "options": {
+        "A": "Vì không thể thu hút khách hàng mới",
+        "B": "Vì không thể mở rộng quy mô",
+        "C": "Vì không thể tạo ra lợi nhuận",
+        "D": "Vì không có đối thủ cạnh tranh"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Mục tiêu của việc đánh giá năng lực bản thân và phân tích môi trường kinh doanh là gì?",
+      "options": {
+        "A": "Đánh giá tiềm năng của ý tưởng khởi nghiệp",
+        "B": "Tìm kiếm vốn đầu tư",
+        "C": "Xây dựng kế hoạch marketing",
+        "D": "Tìm kiếm đối tác"
+      },
+      "answer": "A"
+    },
+    {
+      "q": "\"Đam mê\" trong khởi nghiệp đóng vai trò quan trọng như thế nào?",
+      "options": {
+        "A": "Giúp thu hút vốn đầu tư",
+        "B": "Giúp duy trì động lực và kiên trì khi gặp khó khăn",
+        "C": "Giúp tìm ra ý tưởng mới",
+        "D": "Giúp cạnh tranh với đối thủ"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Việc một doanh nghiệp sản xuất bao bì sinh học để thay thế bao bì nhựa là ví dụ của xu hướng xã hội nào?",
+      "options": {
+        "A": "Sống khỏe",
+        "B": "Sống trải nghiệm",
+        "C": "Sống xanh",
+        "D": "Sống tự do"
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Nguồn ý tưởng nào cho phép tận dụng thị trường sẵn có, giảm rủi ro thất bại vì khách hàng đã quen với sản phẩm?",
+      "options": {
+        "A": "Từ bản thân",
+        "B": "Từ phân tích thị trường",
+        "C": "Đổi mới từ sản phẩm/dịch vụ hiện có",
+        "D": "Phân tích mô hình thành công"
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Việc một ý tưởng không chạm đúng vào \"Pain Point\" và \"Gain Point\" sẽ dẫn đến hậu quả gì?",
+      "options": {
+        "A": "Khách hàng khó quan tâm, dù có đầu tư nhiều",
+        "B": "Dễ dàng tìm kiếm vốn đầu tư",
+        "C": "Có thể phát triển bền vững",
+        "D": "Không có đối thủ cạnh tranh"
+      },
+      "answer": "A"
+    },
+    {
+      "q": "Một trong những lợi ích của việc \"tự đánh giá năng lực\" trước khi khởi nghiệp là:",
+      "options": {
+        "A": "Giúp tìm ra nhà đầu tư tiềm năng",
+        "B": "Giúp liệt kê tất cả kỹ năng, thế mạnh và thành tựu cá nhân",
+        "C": "Giúp tìm ra điểm yếu của đối thủ",
+        "D": "Giúp xây dựng kế hoạch marketing"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Theo mô hình SWOT cá nhân, \"mối quan hệ rộng\" là một yếu tố thuộc:",
+      "options": {
+        "A": "Điểm mạnh",
+        "B": "Điểm yếu",
+        "C": "Cơ hội",
+        "D": "Thách thức"
+      },
+      "answer": "A"
+    },
+    {
+      "q": "\"Thách thức\" trong mô hình SWOT cá nhân là gì?",
+      "options": {
+        "A": "Những hạn chế của bản thân",
+        "B": "Những rủi ro, nguy cơ từ bên ngoài",
+        "C": "Những lợi thế mình đang có",
+        "D": "Những yếu tố tích cực từ môi trường bên ngoài"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Tại sao việc một ý tưởng tốt nhưng không phù hợp với năng lực của người khởi nghiệp lại khó triển khai?",
+      "options": {
+        "A": "Vì thiếu vốn, kiến thức, hoặc mối quan hệ cần thiết",
+        "B": "Vì nó không có thị trường",
+        "C": "Vì nó không giải quyết được vấn đề của khách hàng",
+        "D": "Vì nó không có điểm khác biệt"
+      },
+      "answer": "A"
+    },
+    {
+      "q": "Sự thay đổi về \"Công nghệ\" như AI hay Internet vạn vật mở ra cơ hội gì cho khởi nghiệp?",
+      "options": {
+        "A": "Kinh doanh các sản phẩm truyền thống",
+        "B": "Các dịch vụ cá nhân hóa, nhà thông minh",
+        "C": "Các mô hình kinh doanh nhượng quyền",
+        "D": "Các dịch vụ phi lợi nhuận"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Mối liên hệ giữa \"đánh giá bản thân\" và \"sàng lọc ý tưởng\" là gì?",
+      "options": {
+        "A": "Không có mối liên hệ nào",
+        "B": "Đánh giá bản thân giúp loại bỏ những ý tưởng không phù hợp với năng lực của người thực hiện",
+        "C": "Sàng lọc ý tưởng là bước đầu tiên để đánh giá bản thân",
+        "D": "Đánh giá bản thân chỉ cần làm sau khi đã chọn được ý tưởng"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Ví dụ về Điện máy Xanh tận dụng nhu cầu mua điện máy nhanh ở vùng nông thôn cho thấy họ đã áp dụng chiến lược nào?",
+      "options": {
+        "A": "Tận dụng xu hướng công nghệ",
+        "B": "Giải quyết một \"Pain Point\" cụ thể của nhóm khách hàng",
+        "C": "Tạo ra một sản phẩm hoàn toàn mới",
+        "D": "Cải tiến sản phẩm có sẵn"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Đâu là một ví dụ về \"O - Opportunities\" (Cơ hội) trong mô hình SWOT cá nhân?",
+      "options": {
+        "A": "Vốn đầu tư ít",
+        "B": "Kinh nghiệm chuyên môn",
+        "C": "Cạnh tranh gay gắt",
+        "D": "Chính sách hỗ trợ của Nhà nước"
+      },
+      "answer": "D"
+    },
+    {
+      "q": "Lợi ích nào sau đây là đặc trưng và chỉ có được từ việc xây dựng chân dung khách hàng điển hình (Customer Persona), mà việc phân đoạn thị trường đơn thuần không thể mang lại?",
+      "options": {
+        "A": "Giúp tối ưu hóa chiến lược marketing và tránh dàn trải nguồn lực.",
+        "B": "Giúp đội ngũ phát triển sản phẩm và marketing hiểu rõ \"người thật\" mà họ đang phục vụ, tạo sự đồng cảm.",
+        "C": "Giúp phân chia thị trường lớn thành các nhóm khách hàng có cùng đặc điểm.",
+        "D": "Giúp xác định các tiêu chí phân khúc thị trường dựa trên lối sống và sở thích."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Trong tiến trình nghiên cứu thị trường, bước nào được coi là nền tảng, quyết định sự thành công của toàn bộ quá trình và cần trả lời câu hỏi \"nghiên cứu để làm gì?\"",
+      "options": {
+        "A": "Lập kế hoạch nghiên cứu, bao gồm nguồn dữ liệu và phương pháp.",
+        "B": "Phân tích và xử lý thông tin đã thu thập được.",
+        "C": "Xác định mục tiêu và phạm vi nghiên cứu.",
+        "D": "Báo cáo kết quả nghiên cứu một cách trực quan."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Khi phân tích thị trường cho một ý tưởng khởi nghiệp, việc đánh giá các đối thủ hiện tại, đối thủ tiềm ẩn và sản phẩm thay thế được thực hiện thông qua mô hình nào?",
+      "options": {
+        "A": "Mô hình PESTLE.",
+        "B": "Mô hình TAM-SAM-SOM.",
+        "C": "Mô hình 5 áp lực cạnh tranh của Porter.",
+        "D": "Ma trận đánh giá ý tưởng chi tiết."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Dựa trên mô hình TAM-SAM-SOM, nếu một startup dịch vụ \"thuê người dắt chó đi dạo\" chỉ có khả năng phục vụ tại khu vực trung tâm thành phố, thì khu vực đó sẽ đại diện cho yếu tố nào?",
+      "options": {
+        "A": "TAM (Total Addressable Market).",
+        "B": "SAM (Serviceable Available Market).",
+        "C": "SOM (Serviceable Obtainable Market).",
+        "D": "Đây là yếu tố thuộc phân khúc thị trường theo tiêu chí địa lý, không thuộc mô hình TAM-SAM-SOM."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Trong bối cảnh kinh tế lạm phát tăng cao, người tiêu dùng có xu hướng thắt chặt chi tiêu. Điều này sẽ ảnh hưởng trực tiếp đến startup thông qua yếu tố nào trong mô hình PESTLE?",
+      "options": {
+        "A": "Yếu tố Chính trị (Political), vì Chính phủ có thể ban hành chính sách giảm thuế.",
+        "B": "Yếu tố Kinh tế (Economic), vì nó ảnh hưởng đến sức mua của người tiêu dùng.",
+        "C": "Yếu tố Xã hội (Social), vì nó làm thay đổi thói quen mua sắm.",
+        "D": "Yếu tố Pháp lý (Legal), vì nó liên quan đến các quy định tài chính."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Bước nào trong điều tra nghiên cứu thị trường được xem là bước tốn nhiều thời gian kinh phí và dễ mắc sai lầm nhất?",
+      "options": {
+        "A": "Xác định mục tiêu và phạm vi nghiên cứu.",
+        "B": "Lập kế hoạch nghiên cứu.",
+        "C": "Thu thập thông tin.",
+        "D": "Phân tích và xử lý thông tin."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Yếu tố nào trong mô hình PESTLE phản ánh sự thay đổi trong thói quen tiêu dùng, ví dụ như thế hệ Gen Z ưu tiên trải nghiệm mới và những sản phẩm độc đáo, khác biệt?",
+      "options": {
+        "A": "Yếu tố Công nghệ (Technological).",
+        "B": "Yếu tố Kinh tế (Economic).",
+        "C": "Yếu tố Xã hội (Social).",
+        "D": "Yếu tố Môi trường (Environmental)."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Mô hình nào được tài liệu ví như \"một tấm bản đồ giúp nhà khởi nghiệp nhìn toàn cảnh\" và biết cách tận dụng cơ hội, giảm thiểu rủi ro?",
+      "options": {
+        "A": "Mô hình 5 áp lực cạnh tranh của Porter.",
+        "B": "Mô hình TAM – SAM – SOM.",
+        "C": "Mô hình PESTLE.",
+        "D": "Ma trận đánh giá ý tưởng."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Yếu tố nào trong mô hình PESTLE có thể ảnh hưởng trực tiếp đến khả năng bán hàng của startup khi biến động như lãi suất ngân hàng tăng cao, khiến người tiêu dùng thắt chặt chi tiêu?",
+      "options": {
+        "A": "Yếu tố Pháp lý (Legal).",
+        "B": "Yếu tố Chính trị (Political).",
+        "C": "Yếu tố Kinh tế (Economic).",
+        "D": "Yếu tố Xã hội (Social)."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Một trong những sai lầm cần tránh khi ước tính TAM-SAM-SOM là gì?",
+      "options": {
+        "A": "Bỏ qua các yếu tố môi trường vĩ mô như PESTLE.",
+        "B": "Không nghiên cứu thị trường trước khi ước tính.",
+        "C": "Thiếu số liệu thực tế và bỏ qua yếu tố cạnh tranh.",
+        "D": "Không xác định được chân dung khách hàng điển hình."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Khi nào thì quyền lực của khách hàng được xem là cao?",
+      "options": {
+        "A": "Khi họ có ít lựa chọn thay thế cho sản phẩm.",
+        "B": "Khi họ có nhiều lựa chọn thay thế và dễ dàng mặc cả về giá cả, chất lượng.",
+        "C": "Khi họ có mức thu nhập thấp và thắt chặt chi tiêu.",
+        "D": "Khi startup không thể thấu hiểu nhu cầu của họ."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Theo mô hình 5 áp lực cạnh tranh của Porter, một startup kinh doanh ứng dụng học ngoại ngữ miễn phí sẽ phải đối mặt với áp lực từ đối thủ nào nếu các trung tâm ngoại ngữ truyền thống chuyển sang mở các khóa học trực tuyến giá rẻ? ề ẩ",
+      "options": {
+        "A": "Đối thủ cạnh tranh tiềm ẩn.",
+        "B": "Cạnh tranh của sản phẩm thay thế.",
+        "C": "Đối thủ cạnh tranh trực tiếp.",
+        "D": "Quyền lực của khách hàng."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Nếu một ngành kinh doanh có rào cản gia nhập thấp, thì áp lực cạnh tranh nào sẽ tăng lên?",
+      "options": {
+        "A": "Áp lực từ quyền lực của nhà cung ứng.",
+        "B": "Áp lực từ quyền lực của khách hàng.",
+        "C": "Áp lực từ đối thủ cạnh tranh tiềm ẩn.",
+        "D": "Áp lực từ sản phẩm thay thế."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Để bảo vệ thị trường của mình, người khởi nghiệp cần chủ động tạo ra các rào cản nhất định. Điều nào sau đây KHÔNG được xem là một rào cản hữu ích?",
+      "options": {
+        "A": "Xây dựng thương hiệu mạnh.",
+        "B": "Phát triển công thức sản phẩm độc quyền.",
+        "C": "Tạo ra trải nghiệm khách hàng vượt trội.",
+        "D": "Cạnh tranh về giá cả để loại bỏ đối thủ."
+      },
+      "answer": "D"
+    },
+    {
+      "q": "Mục đích của việc phân đoạn thị trường là gì?",
+      "options": {
+        "A": "Để tìm ra một thị trường ngách đủ lớn để sinh lời.",
+        "B": "Để ước lượng quy mô thị trường tổng thể (TAM).",
+        "C": "Để chia thị trường thành các nhóm khách hàng có đặc điểm, nhu cầu tương đồng, từ đó phục vụ hiệu quả hơn.",
+        "D": "Để xây dựng ma trận đánh giá ý tưởng."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Tiêu chí nào được đánh giá là phổ biến nhất để phân khúc thị trường do dữ liệu dễ thu thập?",
+      "options": {
+        "A": "Địa lý.",
+        "B": "Hành vi.",
+        "C": "Tâm lý.",
+        "D": "Nhân khẩu học."
+      },
+      "answer": "D"
+    },
+    {
+      "q": "Yếu tố \"Nỗi đau\" (Pain Points) trong chân dung khách hàng điển hình là gì?",
+      "options": {
+        "A": "Những vấn đề, khó khăn, hoặc sự bất tiện mà khách hàng đang gặp phải.",
+        "B": "Những sản phẩm thay thế có khả năng cạnh tranh với sản phẩm của startup.",
+        "C": "Các rủi ro tiềm tàng trong quá trình kinh doanh của startup.",
+        "D": "Điểm yếu của startup so với các đối thủ cạnh tranh."
+      },
+      "answer": "A"
+    },
+    {
+      "q": "Vai trò của việc xây dựng chân dung khách hàng điển hình là gì?",
+      "options": {
+        "A": "Là tập hợp các số liệu thống kê về khách hàng.",
+        "B": "Giúp định hướng sản phẩm và xây dựng thông điệp mang tính cá nhân hóa cao.",
+        "C": "Giúp xác định quy mô thị trường có thể phục vụ (SAM).",
+        "D": "Giúp xác định cơ hội, đe dọa đến từ các yếu tố vĩ mô và vi mô của thị trường."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Mục tiêu cốt lõi của quá trình sàng lọc ý tưởng là gì?",
+      "options": {
+        "A": "Ghi lại mọi ý tưởng nảy sinh, bất kể mức độ \"điên rồ\".",
+        "B": "Loại bỏ các ý tưởng thiếu tiềm năng và tập trung nguồn lực vào những ý tưởng có khả năng mang lại giá trị cao.",
+        "C": "Đánh giá chi tiết các ý tưởng bằng ma trận có trọng số.",
+        "D": "Phân tích các yếu tố bên trong và bên ngoài doanh nghiệp."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Một ý tưởng kinh doanh tốt cần đáp ứng tiêu chí nào?",
+      "options": {
+        "A": "Có khả năng sao chép và mở rộng nhanh chóng.",
+        "B": "Chỉ cần phù hợp với sở thích cá nhân.",
+        "C": "Cần có khả năng sinh lời và phát triển bền vững.",
+        "D": "Phải là một ý tưởng hoàn toàn mới và chưa từng có trên thị trường."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Việc nghiên cứu thị trường giúp giảm thiểu rủi ro như thế nào?",
+      "options": {
+        "A": "Bằng cách tìm ra các nhà cung ứng đáng tin cậy.",
+        "B": "Bằng cách tránh tạo ra một sản phẩm mà thị trường không có nhu cầu.",
+        "C": "Bằng cách dự đoán các yếu tố vĩ mô có thể thay đổi trong tương lai.",
+        "D": "Bằng cách xác định được lợi thế cạnh tranh độc đáo."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Khi thực hiện bước thu thập thông tin trong nghiên cứu thị trường, khó khăn nào thường gặp phải?",
+      "options": {
+        "A": "Không xác định được mục tiêu nghiên cứu.",
+        "B": "Thiếu phương tiện/công cụ nghiên cứu.",
+        "C": "Khó tiếp cận đúng đối tượng và dữ liệu bị thiên lệch.",
+        "D": "Không biết cách phân tích dữ liệu đã thu thập."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Một startup kinh doanh dịch vụ dắt chó đi dạo. Theo ma trận đánh giá ý tưởng chi tiết, nếu startup này có lợi thế cạnh tranh là việc sử dụng hệ thống định vị GPS độc quyền, thì tiêu chí này sẽ được đánh giá cao vì:",
+      "options": {
+        "A": "Dịch vụ này mang lại một giải pháp mới mẻ cho vấn đề hiện tại.",
+        "B": "Hệ thống định vị này làm cho dịch vụ rất dễ triển khai trong thực tế.",
+        "C": "Hệ thống này giúp giảm thiểu rủi ro cho chủ nuôi.",
+        "D": "Hệ thống này rất độc đáo và khó bị sao chép."
+      },
+      "answer": "D"
+    },
+    {
+      "q": "Theo mô hình TAM-SAM-SOM, TAM và SAM khác nhau ở điểm nào?",
+      "options": {
+        "A": "TAM là tổng doanh thu, SAM là lợi nhuận ròng.",
+        "B": "TAM là thị trường toàn cầu, SAM là thị trường quốc gia.",
+        "C": "TAM là tổng quy mô thị trường không giới hạn, SAM là thị trường có thể phục vụ bằng nguồn lực của startup.",
+        "D": "TAM là thị trường trực tuyến, SAM là thị trường truyền thống."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Khi một ngành kinh doanh có rào cản gia nhập thấp, ví dụ như kinh doanh quán ăn vặt, người khởi nghiệp sẽ phải đối mặt với áp lực cạnh tranh chính từ đâu?",
+      "options": {
+        "A": "Quyền lực của nhà cung ứng.",
+        "B": "Đối thủ cạnh tranh trực tiếp.",
+        "C": "Đối thủ cạnh tranh tiềm ẩn.",
+        "D": "Quyền lực của khách hàng."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Việc phân khúc thị trường dựa trên lối sống, cá tính, và sở thích được gọi là phân khúc theo tiêu chí gì?",
+      "options": {
+        "A": "Nhân khẩu học.",
+        "B": "Địa lý.",
+        "C": "Hành vi.",
+        "D": "Tâm lý."
+      },
+      "answer": "D"
+    },
+    {
+      "q": "Theo ma trận đánh giá ý tưởng chi tiết, nếu một startup có một công nghệ độc quyền, rất khó bị sao chép, thì tiêu chí nào sẽ được đánh giá cao nhất?",
+      "options": {
+        "A": "Tiềm năng thị trường.",
+        "B": "Khả năng thực thi.",
+        "C": "Lợi thế cạnh tranh.",
+        "D": "Mức độ phù hợp với bản thân."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Khi phân tích chân dung khách hàng điển hình (Customer Persona), yếu tố \"Mục tiêu\" (Goals) đề cập đến điều gì?",
+      "options": {
+        "A": "Các khó khăn mà khách hàng đang gặp phải.",
+        "B": "Những gì khách hàng mong muốn đạt được khi sử dụng sản phẩm/dịch vụ.",
+        "C": "Các đặc điểm nhân khẩu học của khách hàng.",
+        "D": "Những trở ngại khiến khách hàng không thể đạt được mục tiêu."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Tại sao việc phân tích môi trường kinh doanh lại quan trọng đối với người khởi nghiệp khi mới bắt đầu?",
+      "options": {
+        "A": "Giúp tạo ra một sản phẩm hoàn toàn độc đáo.",
+        "B": "Giúp dự đoán chính xác tất cả các rủi ro.",
+        "C": "Giúp chọn được hướng đi phù hợp với bối cảnh thị trường.",
+        "D": "Giúp cạnh tranh trực tiếp với các đối thủ lớn."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Khi nào thì quyền lực của nhà cung ứng được xem là thấp, tạo lợi thế cho startup?",
+      "options": {
+        "A": "Khi số lượng nhà cung cấp ít và sản phẩm của họ độc quyền.",
+        "B": "Khi startup có thể dễ dàng thay đổi nhà cung cấp.",
+        "C": "Khi nhà cung cấp có thể tự mình phân phối sản phẩm.",
+        "D": "Khi startup phụ thuộc nhiều vào một nhà cung cấp duy nhất."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Một startup kinh doanh cà phê trực tuyến. Khi đối mặt với việc các chuỗi cửa hàng cà phê truyền thống mở dịch vụ giao hàng, startup này chịu áp lực cạnh tranh từ đâu?",
+      "options": {
+        "A": "Đối thủ cạnh tranh tiềm ẩn.",
+        "B": "Đối thủ cạnh tranh trực tiếp.",
+        "C": "Cạnh tranh của sản phẩm thay thế. ề",
+        "D": "Quyền lực của khách hàng."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Dữ liệu nào thu thập từ các nguồn như báo cáo ngành, tạp chí, website và các nghiên cứu đã công bố?",
+      "options": {
+        "A": "Dữ liệu sơ cấp.",
+        "B": "Dữ liệu thứ cấp.",
+        "C": "Dữ liệu định tính.",
+        "D": "Dữ liệu định lượng."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Sai lầm nào được cho là nguy hiểm nhất khi ước tính TAM-SAM-SOM và có thể dẫn đến việc \"vỡ mộng\" khi triển khai ý tưởng?",
+      "options": {
+        "A": "Thiếu số liệu thực tế, chỉ dựa trên cảm tính.",
+        "B": "Bỏ qua yếu tố cạnh tranh.",
+        "C": "Quá lạc quan về khả năng chiếm lĩnh thị trường.",
+        "D": "Không phân tích đầy đủ quy mô thị trường tổng thể (TAM)."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Khi nghiên cứu thị trường, việc khó tiếp cận đúng đối tượng, khách hàng không hợp tác, hoặc dữ liệu bị thiên lệch thường xảy ra ở bước nào?",
+      "options": {
+        "A": "Lập kế hoạch nghiên cứu.",
+        "B": "Thu thập thông tin.",
+        "C": "Phân tích và xử lý thông tin.",
+        "D": "Báo cáo kết quả nghiên cứu."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Vai trò của bước sàng lọc sơ bộ ý tưởng là gì?",
+      "options": {
+        "A": "Loại bỏ những ý tưởng không khả thi ngay từ ban đầu.",
+        "B": "Đánh giá chi tiết các ý tưởng bằng ma trận có trọng số.",
+        "C": "Tìm ra những ý tưởng hoàn toàn mới và độc đáo.",
+        "D": "Ghi lại mọi ý tưởng nảy sinh mà không cần đánh giá."
+      },
+      "answer": "A"
+    },
+    {
+      "q": "Căn cứ vào sự khác biệt giữa nhu cầu và sở thích, ta phân thị trường thành thị trường thành thị và nông thôn. Cách phân đoạn như trên dựa theo tiêu chí:",
+      "options": {
+        "A": "Phân đoạn theo địa lý",
+        "B": "Phân đoạn theo dân số – xã hội",
+        "C": "Phân đoạn theo hành vi tiêu dùng",
+        "D": "Phân đoạn theo loại khách hàng"
+      },
+      "answer": "A"
+    },
+    {
+      "q": "Có thể thu thập dữ liệu sơ cấp thông qua:",
+      "options": {
+        "A": "Báo đài, tạp chí",
+        "B": "Điều tra, phỏng vấn khách hàng",
+        "C": "Các thông tin trên các trang web",
+        "D": "Các báo cáo nghiên cứu trước đó"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Tập hợp một nhóm khách hàng có sự đồng nhất về nhu cầu và có cùng phản ứng tương tự với các hoạt động marketing. Đây là khái niệm về:",
+      "options": {
+        "A": "Thị phần",
+        "B": "Đoạn thị trường",
+        "C": "Phân đoạn thị trường",
+        "D": "Thị trường mục tiêu"
+      },
+      "answer": "B"
+    }
+  ],
+  "ch3": [
+    {
+      "q": "Mục tiêu cuối cùng của một bản kế hoạch khởi nghiệp là gì?",
+      "options": {
+        "A": "Tạo ra lợi nhuận ngay lập tức.",
+        "B": "Thu hút được nhiều nhà đầu tư.",
+        "C": "Biến ý tưởng thành một mô hình kinh doanh khả thi.",
+        "D": "Dễ dàng sao chép mô hình của đối thủ."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Việc lập kế hoạch khởi nghiệp có ý nghĩa như thế nào đối với người sáng lập?",
+      "options": {
+        "A": "Giúp họ kiểm soát tất cả các rủi ro.",
+        "B": "Cung cấp một bản đồ chi tiết cho hành trình khởi nghiệp, giúp xác định phương hướng và các bước đi.",
+        "C": "Chỉ cần thiết khi cần gọi vốn.",
+        "D": "Là bản cam kết không được thay đổi."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Yếu tố nào sau đây là quan trọng nhất để kế hoạch khởi nghiệp có cơ sở vững chắc?",
+      "options": {
+        "A": "Nguồn vốn dồi dào.",
+        "B": "Phân tích thị trường, khách hàng và đối thủ.",
+        "C": "Đội ngũ nhân sự đông đảo.",
+        "D": "Sản phẩm độc đáo."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Tại sao việc \"nghiên cứu thị trường\" lại là bước đầu tiên và quan trọng nhất khi lập kế hoạch?",
+      "options": {
+        "A": "Giúp hiểu rõ đối thủ cạnh tranh.",
+        "B": "Giúp xác định sản phẩm/dịch vụ có giải quyết được vấn đề thực sự hay không.",
+        "C": "Giúp tìm kiếm nguồn vốn.",
+        "D": "Giúp xây dựng đội ngũ."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Kế hoạch khởi nghiệp hiệu quả phải đảm bảo tính linh hoạt vì sao?",
+      "options": {
+        "A": "Để có thể thay đổi bất cứ lúc nào mà không cần suy nghĩ.",
+        "B": "Để thích ứng với sự thay đổi của thị trường và các yếu tố bên ngoài.",
+        "C": "Để giảm chi phí đầu tư.",
+        "D": "Để dễ dàng chuyển đổi sang mô hình kinh doanh khác."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Hình thức lập kế hoạch nào thường ngắn gọn, tập trung vào các giả định và cần được kiểm nghiệm nhanh chóng?",
+      "options": {
+        "A": "Business Plan (Kế hoạch kinh doanh).",
+        "B": "Lean Canvas (Mô hình kinh doanh tinh gọn).",
+        "C": "Marketing Plan (Kế hoạch marketing).",
+        "D": "Financial Plan (Kế hoạch tài chính)."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Điểm khác biệt lớn nhất giữa Business Plan và Lean Canvas là gì?",
+      "options": {
+        "A": "Business Plan được sử dụng cho các dự án nhỏ, còn Lean Canvas cho dự án lớn.",
+        "B": "Business Plan tập trung vào sự ổn định, còn Lean Canvas tập trung vào sự thay đổi và học hỏi.",
+        "C": "Business Plan chỉ có 1 trang, còn Lean Canvas có nhiều trang.",
+        "D": "Business Plan không cần nghiên cứu thị trường."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Một startup mới trong giai đoạn thử nghiệm sản phẩm nên chọn hình thức lập kế hoạch nào?",
+      "options": {
+        "A": "Business Plan chi tiết.",
+        "B": "Lean Canvas.",
+        "C": "Cả hai.",
+        "D": "Không cần kế hoạch nào cả."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Yếu tố nào sau đây không phải là một trong 5 bước lập kế hoạch khởi nghiệp hiệu quả?",
+      "options": {
+        "A": "Sàng lọc ý tưởng.",
+        "B": "Đánh giá thị trường.",
+        "C": "Lựa chọn đội ngũ nhân sự.",
+        "D": "Xây dựng mô hình kinh doanh."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Việc một nhóm sinh viên khởi nghiệp mở quán cà phê take-away và lên kế hoạch chi tiết về địa điểm, menu, đối thủ... là ví dụ cho bước nào trong quy trình lập kế hoạch?",
+      "options": {
+        "A": "Xác định mục tiêu.",
+        "B": "Nghiên cứu thị trường và đối thủ.",
+        "C": "Sàng lọc ý tưởng.",
+        "D": "Xây dựng mô hình kinh doanh."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Mặc dù Lean Canvas ngắn gọn hơn Business Plan, nhưng nó vẫn phải đảm bảo yếu tố nào?",
+      "options": {
+        "A": "Tính chính xác tuyệt đối.",
+        "B": "Tính linh hoạt và dễ dàng điều chỉnh.",
+        "C": "Đầy đủ mọi thông tin chi tiết.",
+        "D": "Mang tính phức tạp cao."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Một kế hoạch khởi nghiệp hoàn chỉnh thường bắt đầu bằng phần nào, tóm tắt toàn bộ dự án để thu hút sự chú ý của nhà đầu tư?",
+      "options": {
+        "A": "Phân tích thị trường",
+        "B": "Tóm tắt điều hành",
+        "C": "Kế hoạch tài chính",
+        "D": "Kế hoạch sản xuất"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Phân tích và dự đoán xem khi triển khai thực hiện, kế hoạch sẽ mang lại lợi ích gì cho doanh nghiệp. Đây là bước kiểm tra vấn đề gì của kế hoạch?",
+      "options": {
+        "A": "Tính khả thi của kế hoạch",
+        "B": "Tính ứng dụng của kế hoạch",
+        "C": "Tính hiệu quả của kế hoạch",
+        "D": "Tính an toàn của kế hoạch"
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Giảm giá trực tiếp, kèm tặng phẩm khi bán hàng là một hình thức thuộc hoạt động nào trong marketing mix?",
+      "options": {
+        "A": "Quảng cáo",
+        "B": "Khuyến mại",
+        "C": "Quan hệ công chúng",
+        "D": "Khuyến mãi"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Các nhãn hàng tài trợ cho các chương trình thể thao, truyền hình, game show... là hình thức phổ biến của hoạt động nào?",
+      "options": {
+        "A": "Quảng cáo",
+        "B": "PR – Tuyên truyền, quan hệ công chúng",
+        "C": "Chào hàng cá nhân",
+        "D": "Khuyến mại, khuyến mãi"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Trong mô hình 4P của marketing, \"Place\" (Phân phối) đề cập đến yếu tố nào?",
+      "options": {
+        "A": "Nơi sản xuất sản phẩm",
+        "B": "Cách thức sản phẩm đến tay khách hàng",
+        "C": "Địa điểm đặt văn phòng",
+        "D": "Khu vực quảng cáo sản phẩm"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Mục tiêu của phân tích đối thủ cạnh tranh trong kế hoạch kinh doanh là gì?",
+      "options": {
+        "A": "Để sao chép sản phẩm của họ",
+        "B": "Để xác định điểm mạnh, điểm yếu và học hỏi",
+        "C": "Để tìm cách loại bỏ đối thủ",
+        "D": "Để biết cách bán hàng giống họ"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Kế hoạch tài chính là một phần không thể thiếu của kế hoạch kinh doanh, giúp trả lời câu hỏi nào?",
+      "options": {
+        "A": "Ai là khách hàng mục tiêu?",
+        "B": "Sản phẩm có giải quyết được vấn đề không?",
+        "C": "Cần bao nhiêu vốn và nguồn thu sẽ đến từ đâu?",
+        "D": "Làm thế nào để quảng bá sản phẩm?"
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Mục tiêu của việc xây dựng hồ sơ khách hàng mục tiêu (Target Customer Profile) là gì?",
+      "options": {
+        "A": "Để tìm ra đối thủ cạnh tranh.",
+        "B": "Để xác định sản phẩm cần bán.",
+        "C": "Để hiểu rõ nhu cầu và hành vi của nhóm khách hàng sẽ mua sản phẩm.",
+        "D": "Để dự đoán lợi nhuận."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Trong kế hoạch kinh doanh, \"Product\" (Sản phẩm) bao gồm những khía cạnh nào?",
+      "options": {
+        "A": "Chỉ có tên sản phẩm và giá bán.",
+        "B": "Đặc điểm, tính năng, chất lượng và lợi ích mang lại cho khách hàng.",
+        "C": "Cách thức phân phối sản phẩm.",
+        "D": "Chiến lược marketing."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Lựa chọn giá bán sản phẩm phù hợp với thị trường, đối thủ và chi phí là một phần của yếu tố nào trong marketing mix?",
+      "options": {
+        "A": "Product",
+        "B": "Price",
+        "C": "Place",
+        "D": "Promotion"
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Trong bối cảnh một startup đang trong giai đoạn thử nghiệm, việc lập kế hoạch tinh gọn (Lean Canvas) thay vì kế hoạch kinh doanh chi tiết (Business Plan) có ưu điểm gì nổi bật nhất?",
+      "options": {
+        "A": "Tiết kiệm chi phí in ấn tài liệu.",
+        "B": "Cho phép thay đổi và thử nghiệm nhanh chóng các giả định cốt lõi.",
+        "C": "Chỉ tập trung vào nguồn vốn mà không cần phân tích thị trường.",
+        "D": "Dễ dàng thu hút vốn đầu tư từ các ngân hàng."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Tại sao \"Tóm tắt điều hành\" (Executive Summary) lại là phần quan trọng nhất trong một bản kế hoạch kinh doanh khi gửi cho nhà đầu tư?",
+      "options": {
+        "A": "Vì đây là phần duy nhất nhà đầu tư đọc.",
+        "B": "Vì nó cho thấy khả năng tóm tắt thông tin của người sáng lập.",
+        "C": "Vì nó cung cấp cái nhìn tổng quan, nhanh chóng về tiềm năng của dự án.",
+        "D": "Vì nó giúp người sáng lập tiết kiệm thời gian."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Một kế hoạch kinh doanh cần phải chứng minh được \"tính khả thi\". Điều này được thể hiện rõ nhất qua phần nào?",
+      "options": {
+        "A": "Kế hoạch marketing, cho thấy khả năng thu hút khách hàng.",
+        "B": "Kế hoạch tài chính, cho thấy khả năng sinh lời và quản lý dòng tiền.",
+        "C": "Kế hoạch nhân sự, cho thấy có đội ngũ vững mạnh.",
+        "D": "Kế hoạch sản phẩm, cho thấy sản phẩm có tính độc đáo."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Khi lập kế hoạch marketing, việc xác định \"lợi thế cạnh tranh bền vững\" (Sustainable Competitive Advantage) có ý nghĩa gì?",
+      "options": {
+        "A": "Giúp giảm chi phí quảng cáo.",
+        "B": "Giúp doanh nghiệp duy trì vị thế độc tôn trên thị trường trong dài hạn.",
+        "C": "Giúp bán sản phẩm với giá cao hơn.",
+        "D": "Giúp thu hút khách hàng một cách nhanh chóng."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Mục tiêu chính của việc lập kế hoạch vận hành (Operations Plan) trong một kế hoạch kinh doanh là gì?",
+      "options": {
+        "A": "Xây dựng chiến lược marketing.",
+        "B": "Dự báo doanh thu và lợi nhuận.",
+        "C": "Chi tiết hóa quy trình tạo ra và cung cấp sản phẩm/dịch vụ.",
+        "D": "Tìm kiếm đối tác và nhà cung cấp."
+      },
+      "answer": "C"
+    },
+    {
+      "q": "Trong một bản kế hoạch tài chính, yếu tố nào phản ánh bức tranh toàn cảnh về dòng tiền ra và vào của doanh nghiệp trong một khoảng thời gian cụ thể?",
+      "options": {
+        "A": "Bảng cân đối kế toán.",
+        "B": "Báo cáo lưu chuyển tiền tệ (Cash Flow Statement).",
+        "C": "Báo cáo kết quả hoạt động kinh doanh.",
+        "D": "Kế hoạch chi phí ban đầu."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Lựa chọn kênh phân phối (Place) nào phù hợp với sản phẩm và khách hàng mục tiêu là một quyết định chiến lược. Ví dụ, một sản phẩm thủ công cao cấp nên được phân phối qua kênh nào?",
+      "options": {
+        "A": "Chợ truyền thống.",
+        "B": "Cửa hàng online chuyên biệt hoặc boutique.",
+        "C": "Siêu thị đại chúng.",
+        "D": "Kênh bán buôn."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "\"Chào hàng cá nhân\" (Personal Selling) là hình thức quảng bá nào?",
+      "options": {
+        "A": "Bán hàng trực tiếp qua điện thoại.",
+        "B": "Tư vấn và bán hàng trực tiếp giữa người bán và người mua.",
+        "C": "Bán hàng qua mạng xã hội.",
+        "D": "Gửi email quảng cáo."
+      },
+      "answer": "B"
+    },
+    {
+      "q": "Khi mô tả doanh nghiệp/dự án, nhà khởi nghiệp trình bày giá trị cốt lõi là đang nói về vấn đề nào?",
+      "options": {
+        "A": "Lý do tồn tại – những đóng góp cho xã hội.",
+        "B": "Nguyên tắc cam kết theo đuổi.",
+        "C": "Mục tiêu muốn trở thành trong 5 –10 năm tới.",
+        "D": "Điều mà dự án mong muốn đạt được."
+      },
+      "answer": "B"
+    }
+  ]
+}
